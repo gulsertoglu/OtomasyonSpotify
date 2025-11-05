@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spotify Oynatıcı</title>
+    <script src="https://sdk.scdn.co/spotify-player.js"></script>
+</head>
+<body>
+    <h1>Sanal Oynatıcı</h1>
+    <p id="cihaz-id">Durum: SDK Yükleniyor...</p>
+
+    <script>
+        // --- BOMBA GEÇİRMEZ YÖNTEM ---
+        // Python'dan gelen token'ı 'tojson' filtresiyle alıyoruz.
+        // Bu, token'ın içinde ' veya " gibi patlayan karakterler olsa bile
+        // bunu güvenli bir JavaScript string'ine çevirir.
+        const accessToken = {{ Access_token | tojson }};
+
+        window.onSpotifyWebPlaybackSDKReady = () => {
+            document.getElementById("cihaz-id").innerText = "Durum: SDK Hazır. Oynatıcı kuruluyor...";
+            console.log("Spotify SDK hazır.");
+
+            const player = new Spotify.Player({
+                name: 'Proje Oynaticisi (Gemini)',
+                getOAuthToken: cb => { 
+                    cb(accessToken); 
+                }
+            });
+
+            // --- Hataları Göster ---
+            player.addListener('initialization_error', ({ message }) => { 
+                console.error("HATA (Init):", message); 
+                document.getElementById("cihaz-id").innerText = "HATA (Init): " + message;
+            });
+            player.addListener('authentication_error', ({ message }) => { 
+                console.error("HATA (Auth):", message); 
+                document.getElementById("cihaz-id").innerText = "HATA (Auth): " + message;
+            });
+            player.addListener('account_error', ({ message }) => { 
+                console.error("HATA (Hesap): PREMIUM GEREKLI!", message); 
+                document.getElementById("cihaz-id").innerText = "HATA: PREMIUM HESAP GEREKLI. " + message;
+                alert("HATA: Bu SDK sadece Spotify Premium hesaplarla çalışır. Lütfen Premium bir hesapla giriş yap.");
+            });
+
+            // --- BAŞARI ---
+            player.addListener('ready', ({ device_id }) => {
+                console.log("BASARILI! Cihaz ID:", device_id);
+                document.getElementById("cihaz-id").innerText = "BASARILI! Cihaz ID: " + device_id;
+            });
+
+            // Cihaz çevrimdışı
+            player.addListener('not_ready', ({ device_id }) => {
+                console.log('Cihaz çevrimdışı oldu', device_id);
+            });
+
+            // --- Spotify'a Bağlan ---
+            player.connect().then(success => {
+                if (success) {
+                    console.log("Oynatıcı başarıyla bağlandı.");
+                    document.getElementById("cihaz-id").innerText = "Durum: Spotify'a bağlandı, Cihaz ID bekleniyor...";
+                } else {
+                    console.error("Oynatıcı bağlanamadı.");
+                    document.getElementById("cihaz-id").innerText = "HATA: Oynatıcı bağlanamadı.";
+                }
+            });
+        };
+    </script>
+</body>
+</html>
