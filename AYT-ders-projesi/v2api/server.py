@@ -3,17 +3,17 @@ from spotipy.oauth2 import SpotifyOAuth
 from flask import Flask, render_template
 import sys
 
-# --- BİLGİLERİNİ GİR (DEĞİŞTİRME BURAYI) ---
+# --- Kullanıcı Bilgileri ---
 CLIENT_ID = "c53e2005ca4146a891209c41df9878ed"
 CLIENT_SECRET = "d0ea3841b1394afc8e43b3e4d50fab77"
-REDIRECT_URI = "http://127.0.0.1:8888" # BU ADRESLE AUTH ALMIŞTIK!
+REDIRECT_URI = "http://127.0.0.1:8888"
 SCOPE = "streaming user-read-email user-read-private user-read-playback-state user-modify-playback-state user-read-currently-playing"
 
-# --- GLOBAL DEĞİŞKENLER ---
+# --- Değişkenler ---
 app = Flask(__name__)
 auth_manager = None  # Bunu aşağıda dolduracağız
 
-# --- ANA KİMLİK DOĞRULAMA FONKSİYONU ---
+# --- Kimlik Doğrulama ---
 def setup_spotify_auth():
     global auth_manager # Dışarıdaki auth_manager'ı kullan
     try:
@@ -28,7 +28,6 @@ def setup_spotify_auth():
         show_dialog=True            # Bu kalmalı
         )
         
-        # --- EN ÖNEMLİ KISIM: TOKEN'I ŞİMDİ ALMAYA ZORLA ---
         # .cache'i kontrol et. Yoksa veya geçersizse, tarayıcıyı aç.
         print("Token kontrol ediliyor (.cache dosyası aranıyor)...")
         token_info = auth_manager.get_access_token(check_cache=True)
@@ -46,7 +45,7 @@ def setup_spotify_auth():
         print("Spotify Dashboard ayarlarını (ID, Secret, Redirect URI) kontrol et.")
         return False
 
-# --- WEB SUNUCUSU (FLASK) KISMI ---
+# --- Flask ---
 
 def get_token_from_cache():
     """Sadece cache'den token'ı okur, yenileme yapmaz (SDK için)"""
@@ -65,7 +64,7 @@ def get_token_from_cache():
 def index():
     print("Tarayıcı '/' adresini istedi, index.html hazırlanıyor...")
     
-    # Token'ı al (SDK'ya vermek için)
+    # Token'i al
     access_token = get_token_from_cache()
     
     if not access_token:
@@ -77,7 +76,7 @@ def index():
     return render_template('index.html', access_token=access_token)
 
 
-# --- PROGRAMIN BAŞLANGIÇ NOKTASI ---
+# --- Başlangıç ---
 print("Script başlatıldı.")
 print("Adım 1: Spotify kimlik doğrulaması deneniyor...")
 
@@ -86,7 +85,7 @@ if setup_spotify_auth():
     print("\nAdım 2: Web sunucusu (Flask) başlatılıyor...")
     print(f"Lütfen tarayıcınızda http://127.0.0.1:8888 adresini AÇIK TUTUN.")
     
-    # Sunucuyu başlat (debug=False, production için daha stabil)
+    # Sunucuyu başlat 
     app.run(host='127.0.0.1', port=8888, debug=True)
     
 else:

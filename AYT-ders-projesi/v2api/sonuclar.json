@@ -1,0 +1,47 @@
+[
+    {
+        "sira": 1,
+        "tarih": "2025-11-26 22:33:43.286799",
+        "sarki_adi": "Goodbye Yellow Brick Road - Remastered 2014",
+        "sanatci": "Elton John",
+        "spotify_id": "4IRHwIZHzlHT1FQpRa5RdE",
+        "populerlik": 76,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 2,
+        "tarih": "2025-11-26 22:34:47.415321",
+        "sarki_adi": "La Fee Verte",
+        "sanatci": "Kasabian",
+        "spotify_id": "4lCwHOj3y8qhUnHPLyW5Pd",
+        "populerlik": 39,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 3,
+        "tarih": "2025-11-26 22:35:52.178742",
+        "sarki_adi": "Rosemary",
+        "sanatci": "Deftones",
+        "spotify_id": "4FEr6dIdH6EqLKR0jB560J",
+        "populerlik": 75,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 4,
+        "tarih": "2025-11-26 22:36:56.511724",
+        "sarki_adi": "Herr Mannelig",
+        "sanatci": "Haggard",
+        "spotify_id": "0CK3hcpHOBzl8nbxQ85NFr",
+        "populerlik": 48,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 5,
+        "tarih": "2025-11-26 22:38:00.920755",
+        "sarki_adi": "Only You (feat. WizKid, Offset & J Balvin)",
+        "sanatci": "Metro Boomin",
+        "spotify_id": "3XFwOQU8wxXWl8Rxj3lrOi",
+        "populerlik": 48,
+        "dinlenen_sure_sn": 60
+    }
+]
