@@ -1,47 +1,884 @@
 [
     {
         "sira": 1,
-        "tarih": "2025-11-26 22:33:43.286799",
-        "sarki_adi": "Goodbye Yellow Brick Road - Remastered 2014",
-        "sanatci": "Elton John",
-        "spotify_id": "4IRHwIZHzlHT1FQpRa5RdE",
-        "populerlik": 76,
+        "tarih": "2025-12-02 20:07:56.563844",
+        "sarki_adi": "Danza Kuduro",
+        "sanatci": "Don Omar",
+        "spotify_id": "6DXLO8LndZMVOHM0wNbpzg",
+        "populerlik": 77,
         "dinlenen_sure_sn": 60
     },
     {
         "sira": 2,
-        "tarih": "2025-11-26 22:34:47.415321",
-        "sarki_adi": "La Fee Verte",
-        "sanatci": "Kasabian",
-        "spotify_id": "4lCwHOj3y8qhUnHPLyW5Pd",
-        "populerlik": 39,
+        "tarih": "2025-12-02 20:09:00.465549",
+        "sarki_adi": "Gitme",
+        "sanatci": "Dengesiz Herifler",
+        "spotify_id": "2WStbkmfOFgjTNX4CR1XcL",
+        "populerlik": 26,
         "dinlenen_sure_sn": 60
     },
     {
         "sira": 3,
-        "tarih": "2025-11-26 22:35:52.178742",
-        "sarki_adi": "Rosemary",
-        "sanatci": "Deftones",
-        "spotify_id": "4FEr6dIdH6EqLKR0jB560J",
-        "populerlik": 75,
+        "tarih": "2025-12-02 20:10:04.222253",
+        "sarki_adi": "Dumb",
+        "sanatci": "Nirvana",
+        "spotify_id": "5gRcv46AMTrosmTOqrOV3Q",
+        "populerlik": 74,
         "dinlenen_sure_sn": 60
     },
     {
         "sira": 4,
-        "tarih": "2025-11-26 22:36:56.511724",
-        "sarki_adi": "Herr Mannelig",
-        "sanatci": "Haggard",
-        "spotify_id": "0CK3hcpHOBzl8nbxQ85NFr",
-        "populerlik": 48,
+        "tarih": "2025-12-02 20:11:07.809041",
+        "sarki_adi": "Sentetik Sezar",
+        "sanatci": "Sakin",
+        "spotify_id": "7ca7BzDurGl3PtKeNdy8D7",
+        "populerlik": 35,
         "dinlenen_sure_sn": 60
     },
     {
         "sira": 5,
-        "tarih": "2025-11-26 22:38:00.920755",
-        "sarki_adi": "Only You (feat. WizKid, Offset & J Balvin)",
-        "sanatci": "Metro Boomin",
-        "spotify_id": "3XFwOQU8wxXWl8Rxj3lrOi",
+        "tarih": "2025-12-02 20:12:11.412412",
+        "sarki_adi": "Anyway",
+        "sanatci": "Oto",
+        "spotify_id": "4g3XFviUtGlNEp9rjCMIr4",
+        "populerlik": 32,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 6,
+        "tarih": "2025-12-02 20:13:15.231921",
+        "sarki_adi": "sense",
+        "sanatci": "trapeia",
+        "spotify_id": "1LkzYDYD1KWxxH8ncdygYK",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 7,
+        "tarih": "2025-12-02 20:14:19.063997",
+        "sarki_adi": "J1 - Stage 4 Post Awareness Confusions",
+        "sanatci": "The Caretaker",
+        "spotify_id": "3odzpf3mqXKwhaTkeXKzpW",
+        "populerlik": 26,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 8,
+        "tarih": "2025-12-02 20:15:22.662930",
+        "sarki_adi": "Apartman Savaşları",
+        "sanatci": "Şehinşah",
+        "spotify_id": "77XZsWv0bAw2vUJujPAsP3",
+        "populerlik": 25,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 9,
+        "tarih": "2025-12-02 20:16:26.177033",
+        "sarki_adi": "Daylight",
+        "sanatci": "David Kushner",
+        "spotify_id": "1odExI7RdWc4BT515LTAwj",
+        "populerlik": 17,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 10,
+        "tarih": "2025-12-02 20:17:29.718461",
+        "sarki_adi": "Knees",
+        "sanatci": "Injury Reserve",
+        "spotify_id": "4XoN5kQ4eIRPwCqMQ3U6iN",
+        "populerlik": 41,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 11,
+        "tarih": "2025-12-02 20:18:33.284217",
+        "sarki_adi": "Yaşamak Öldürür P2",
+        "sanatci": "Joker",
+        "spotify_id": "0WKKgdBVYe5ZsQwSQ8xmz3",
+        "populerlik": 38,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 12,
+        "tarih": "2025-12-02 20:19:36.978265",
+        "sarki_adi": "I feel like I'm losing you",
+        "sanatci": "SØINS",
+        "spotify_id": "4aJcJzcgU9popOg5qnsGMX",
+        "populerlik": 46,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 13,
+        "tarih": "2025-12-02 20:20:40.531442",
+        "sarki_adi": "L.A. Woman",
+        "sanatci": "The Doors",
+        "spotify_id": "6DmfWj5kOa1fX8AwN9byOn",
+        "populerlik": 66,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 14,
+        "tarih": "2025-12-02 20:21:44.364676",
+        "sarki_adi": "Aşk Ne Demek",
+        "sanatci": "Yalın",
+        "spotify_id": "0lqso0nJhmJ9cbyywkwnUt",
+        "populerlik": 61,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 15,
+        "tarih": "2025-12-02 20:22:48.292555",
+        "sarki_adi": "Hal Hal",
+        "sanatci": "Barış Manço",
+        "spotify_id": "65NV3Edii9qi3WFs604gbV",
+        "populerlik": 38,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 16,
+        "tarih": "2025-12-02 20:23:51.841499",
+        "sarki_adi": "黒キ桜ハ愛∴其ノ死ヲ乞ウ feat. The Herb Shop",
+        "sanatci": "Imperial Circus Dead Decadence",
+        "spotify_id": "1le8OhLHXTdOdb0rLCydtq",
+        "populerlik": 28,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 17,
+        "tarih": "2025-12-02 20:24:55.600885",
+        "sarki_adi": "Integration (Insert)",
+        "sanatci": "Ice Cube",
+        "spotify_id": "5LaFSflVutJFVMqYlEG5S4",
+        "populerlik": 27,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 18,
+        "tarih": "2025-12-02 20:25:59.113236",
+        "sarki_adi": "Heaven’s falling down - Dawning Ver.",
+        "sanatci": "sana (sajou no hana)",
+        "spotify_id": "5QRrqq6JS5Nu1SBqVaSlzX",
+        "populerlik": 40,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 19,
+        "tarih": "2025-12-02 20:27:02.866904",
+        "sarki_adi": "WASTE",
+        "sanatci": "KXLLSWXTCH",
+        "spotify_id": "4NgherJDfCXWBZBYheM4jK",
+        "populerlik": 72,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 20,
+        "tarih": "2025-12-02 20:28:06.401046",
+        "sarki_adi": "Door",
+        "sanatci": "Mitski",
+        "spotify_id": "3Zvy28r7AXCtm790GAiQat",
+        "populerlik": 51,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 21,
+        "tarih": "2025-12-02 20:29:09.907161",
+        "sarki_adi": "There's Nothing Left for You",
+        "sanatci": "Mitski",
+        "spotify_id": "3E58JFBc6SLeaTyMCPiKQC",
+        "populerlik": 50,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 22,
+        "tarih": "2025-12-02 20:30:13.476530",
+        "sarki_adi": "Torba Var Mı Beyler?",
+        "sanatci": "Kilink",
+        "spotify_id": "7LxeS6YSxwhKkEevTfBEFm",
+        "populerlik": 27,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 23,
+        "tarih": "2025-12-02 20:31:17.041900",
+        "sarki_adi": "Totuzenno Tatakai",
+        "sanatci": "Yugo Kanno",
+        "spotify_id": "5YZwv1fEy97vmtm688aSQj",
+        "populerlik": 29,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 24,
+        "tarih": "2025-12-02 20:32:20.638907",
+        "sarki_adi": "Derviş",
+        "sanatci": "Saian",
+        "spotify_id": "12ZkkB7TvdW1Hv8cNRQQNm",
+        "populerlik": 17,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 25,
+        "tarih": "2025-12-02 20:33:24.266831",
+        "sarki_adi": "supїdo",
+        "sanatci": "фрози",
+        "spotify_id": "0iTrYSvCB4NDvQR3DsFt6T",
+        "populerlik": 61,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 26,
+        "tarih": "2025-12-02 20:34:27.835682",
+        "sarki_adi": "Duyarsız",
+        "sanatci": "Tembel Cızırtı",
+        "spotify_id": "2Hnuq511cCKLGwHMlDrRZz",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 27,
+        "tarih": "2025-12-02 20:35:32.782222",
+        "sarki_adi": "Hiç Durmadan",
+        "sanatci": "Dengesiz Herifler",
+        "spotify_id": "4xtOJV07KPDIoF9JWyTJbC",
+        "populerlik": 12,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 28,
+        "tarih": "2025-12-02 20:36:36.318344",
+        "sarki_adi": "Grow Old with Me",
+        "sanatci": "Tom Odell",
+        "spotify_id": "6xjxMWGsprmtUVMDaMhgH0",
+        "populerlik": 60,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 29,
+        "tarih": "2025-12-02 20:37:40.497742",
+        "sarki_adi": "Understand Me",
+        "sanatci": "Chief Keef",
+        "spotify_id": "5P6ByN1elQzHH66vKlAB9a",
+        "populerlik": 49,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 30,
+        "tarih": "2025-12-02 20:38:44.151020",
+        "sarki_adi": "Undeniable Fate - Rush Percussion Ver.",
+        "sanatci": "Kota Suzuki",
+        "spotify_id": "77bgSQnSeSd5xrwuu7ZAKS",
+        "populerlik": 12,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 31,
+        "tarih": "2025-12-02 20:39:47.765244",
+        "sarki_adi": "Hotter Than Hell",
+        "sanatci": "KISS",
+        "spotify_id": "5zz1MJ11Fi3aMFMKryxxnu",
+        "populerlik": 20,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 32,
+        "tarih": "2025-12-02 20:40:51.286781",
+        "sarki_adi": "Pain",
+        "sanatci": "Three Days Grace",
+        "spotify_id": "33daQo3S8j2NcJstEHXwhQ",
+        "populerlik": 65,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 33,
+        "tarih": "2025-12-02 20:41:54.884449",
+        "sarki_adi": "Tavşan Ve Ben",
+        "sanatci": "Frapan",
+        "spotify_id": "0EfhfWbSsp9XrYmMpttWk7",
+        "populerlik": 27,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 34,
+        "tarih": "2025-12-02 20:42:59.115265",
+        "sarki_adi": "Yakın Ölüm Deneyimi",
+        "sanatci": "Rashit",
+        "spotify_id": "7aYCCRydZ49pQTFmthUNeV",
+        "populerlik": 27,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 35,
+        "tarih": "2025-12-02 20:44:02.822695",
+        "sarki_adi": "GODS",
+        "sanatci": "League of Legends",
+        "spotify_id": "210JJAa9nJOgNa0YNrsT5g",
         "populerlik": 48,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 36,
+        "tarih": "2025-12-02 20:45:06.477298",
+        "sarki_adi": "Flash",
+        "sanatci": "Cigarettes After Sex",
+        "spotify_id": "6VJYENs5BugMc1dCVepivD",
+        "populerlik": 2,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 37,
+        "tarih": "2025-12-02 20:46:10.056658",
+        "sarki_adi": "Love Me More",
+        "sanatci": "Mitski",
+        "spotify_id": "4PUT0cH2iggaje5hTJZeGe",
+        "populerlik": 58,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 38,
+        "tarih": "2025-12-02 20:47:13.651075",
+        "sarki_adi": "No One Else",
+        "sanatci": "Weezer",
+        "spotify_id": "2w12ff20EDDeXpsx08CgG5",
+        "populerlik": 52,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 39,
+        "tarih": "2025-12-02 20:48:17.380696",
+        "sarki_adi": "夢灯籠",
+        "sanatci": "RADWIMPS",
+        "spotify_id": "6CsMd91gWWntqjZfXAScWe",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 40,
+        "tarih": "2025-12-02 20:49:20.970636",
+        "sarki_adi": "Die In a Fire (feat. EileMonty & Orko)",
+        "sanatci": "The Living Tombstone",
+        "spotify_id": "1SXuOan5v9G1mM7X0ieXrM",
+        "populerlik": 62,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 41,
+        "tarih": "2025-12-02 20:50:24.544311",
+        "sarki_adi": "Aşk Eski Bir Yalan",
+        "sanatci": "Kamuran Akkor",
+        "spotify_id": "6exMXI0HLsEVlUacZ8ELY1",
+        "populerlik": 55,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 42,
+        "tarih": "2025-12-02 20:51:28.117241",
+        "sarki_adi": "N95",
+        "sanatci": "Kendrick Lamar",
+        "spotify_id": "0fX4oNGBWO3dSGUZcVdVV2",
+        "populerlik": 73,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 43,
+        "tarih": "2025-12-02 20:52:32.567008",
+        "sarki_adi": "Ruh",
+        "sanatci": "rehber",
+        "spotify_id": "61D4ZGysGei2SyaNlHIr7K",
+        "populerlik": 41,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 44,
+        "tarih": "2025-12-02 20:53:36.267067",
+        "sarki_adi": "Prada",
+        "sanatci": "Eyedress",
+        "spotify_id": "6Vpm1XnlUKcBRtEBvPjPI6",
+        "populerlik": 24,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 45,
+        "tarih": "2025-12-02 20:54:39.885755",
+        "sarki_adi": "Delilik",
+        "sanatci": "Cem Kısmet - Pilli Bebek",
+        "spotify_id": "6eJZdsGd7HDn5D3jDDzIRd",
+        "populerlik": 60,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 46,
+        "tarih": "2025-12-02 20:55:43.494678",
+        "sarki_adi": "Onedari Daisakusen",
+        "sanatci": "BABYMETAL",
+        "spotify_id": "3kGT8ibGepflSyggXpxRcH",
+        "populerlik": 31,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 47,
+        "tarih": "2025-12-02 20:56:47.164729",
+        "sarki_adi": "incontrollabile",
+        "sanatci": "Yugo Kanno",
+        "spotify_id": "3wnr6Y0JBNIXVRxtwHxKk4",
+        "populerlik": 23,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 48,
+        "tarih": "2025-12-02 20:57:50.717854",
+        "sarki_adi": "Hikayem Bitmedi",
+        "sanatci": "Can Bonomo",
+        "spotify_id": "5YUjVwnxQeYJAxq6bElGWU",
+        "populerlik": 58,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 49,
+        "tarih": "2025-12-02 20:58:54.320368",
+        "sarki_adi": "Palmtree Panic - ”P” mix",
+        "sanatci": "SEGA SOUND TEAM",
+        "spotify_id": "58nqArQQR9mlhLtHrwYsZL",
+        "populerlik": 54,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 50,
+        "tarih": "2025-12-02 20:59:58.085415",
+        "sarki_adi": "Wiping All Out",
+        "sanatci": "藤田真由美",
+        "spotify_id": "66FiK8mpHUEjuTj2bpSzc6",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 51,
+        "tarih": "2025-12-02 21:01:01.745205",
+        "sarki_adi": "ゲリュオン戦闘1",
+        "sanatci": "Capcom Sound Team",
+        "spotify_id": "0RmDfuTktbfzb4KcBVimlv",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 52,
+        "tarih": "2025-12-02 21:02:05.295997",
+        "sarki_adi": "I Don't Like",
+        "sanatci": "Chief Keef",
+        "spotify_id": "1h6kgem1ai8vUgO1rZOwfB",
+        "populerlik": 73,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 53,
+        "tarih": "2025-12-02 21:03:09.001232",
+        "sarki_adi": "Eleştiri",
+        "sanatci": "Asperger",
+        "spotify_id": "2ljILTqizqw9cUrX1qOEuZ",
+        "populerlik": 3,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 54,
+        "tarih": "2025-12-02 21:04:12.860896",
+        "sarki_adi": "Cherry Bomb",
+        "sanatci": "The Runaways",
+        "spotify_id": "7cdnq45E9aP2XDStHg5vd7",
+        "populerlik": 67,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 55,
+        "tarih": "2025-12-02 21:05:16.476417",
+        "sarki_adi": "Can You See Me",
+        "sanatci": "Jimi Hendrix",
+        "spotify_id": "41j3QgPNvLSoWBucJuInCZ",
+        "populerlik": 37,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 56,
+        "tarih": "2025-12-02 21:06:20.101679",
+        "sarki_adi": "Aux",
+        "sanatci": "isaur",
+        "spotify_id": "0phHhm2LmMBJwnrGx5kqS3",
+        "populerlik": 39,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 57,
+        "tarih": "2025-12-02 21:07:23.757051",
+        "sarki_adi": "Bad Seed",
+        "sanatci": "Metallica",
+        "spotify_id": "0cKWKhciVCYNyxFVnV1Y4R",
+        "populerlik": 44,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 58,
+        "tarih": "2025-12-02 21:08:28.495645",
+        "sarki_adi": "Kickstand",
+        "sanatci": "Soundgarden",
+        "spotify_id": "5zrSzYQdBZeBqir7R1A7wO",
+        "populerlik": 39,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 59,
+        "tarih": "2025-12-02 21:09:32.086405",
+        "sarki_adi": "Varımı Yoğumu",
+        "sanatci": "Erkin Koray",
+        "spotify_id": "1y5fmMDsnZk7bYXWkY9Xve",
+        "populerlik": 11,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 60,
+        "tarih": "2025-12-02 21:10:35.774426",
+        "sarki_adi": "Geceler",
+        "sanatci": "Lapsekili Tayfur",
+        "spotify_id": "1KVViHJQgcaMsfH9cl8dTm",
+        "populerlik": 39,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 61,
+        "tarih": "2025-12-02 21:11:39.603907",
+        "sarki_adi": "Olmuyor Olamıyor",
+        "sanatci": "MFÖ",
+        "spotify_id": "0X7oXZlIKePxVWDNLterkx",
+        "populerlik": 16,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 62,
+        "tarih": "2025-12-02 21:12:43.195637",
+        "sarki_adi": "Kimi Hatırlasam",
+        "sanatci": "Kayra",
+        "spotify_id": "2omqJB6bVnz2JJbjXoNReq",
+        "populerlik": 56,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 63,
+        "tarih": "2025-12-02 21:13:46.989354",
+        "sarki_adi": "Sopa - Clup Remix",
+        "sanatci": "Hande Yener",
+        "spotify_id": "2rkDwpmqASO9ZmUFjqwrR3",
+        "populerlik": 4,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 64,
+        "tarih": "2025-12-02 21:14:50.850523",
+        "sarki_adi": "Herkes Gider Mi",
+        "sanatci": "Cem Adrian",
+        "spotify_id": "3ZrDtnsXmbM1s7Y4ZIDq7e",
+        "populerlik": 58,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 65,
+        "tarih": "2025-12-02 21:15:54.628738",
+        "sarki_adi": "I'm Only a Fool for You",
+        "sanatci": "Dybbukk",
+        "spotify_id": "5yfnAsPrvrjiLOhWFycNP4",
+        "populerlik": 58,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 66,
+        "tarih": "2025-12-02 21:16:58.412899",
+        "sarki_adi": "Low",
+        "sanatci": "Starboard",
+        "spotify_id": "20g5M8pzMRTiRBP4EWuepS",
+        "populerlik": 24,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 67,
+        "tarih": "2025-12-02 21:18:01.948951",
+        "sarki_adi": "Thela Hun Ginjeet",
+        "sanatci": "King Crimson",
+        "spotify_id": "04c3ZTgTH5ci7LuNSx7Wje",
+        "populerlik": 39,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 68,
+        "tarih": "2025-12-02 21:19:05.690038",
+        "sarki_adi": "Hare Krishna",
+        "sanatci": "Erkin Koray",
+        "spotify_id": "0Sb1Xn4B2NDlwHrefDxCnP",
+        "populerlik": 12,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 69,
+        "tarih": "2025-12-02 21:20:09.325739",
+        "sarki_adi": "Better Than Me",
+        "sanatci": "The Brobecks",
+        "spotify_id": "2ACs0dJwkSsvNZvEbvFurK",
+        "populerlik": 61,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 70,
+        "tarih": "2025-12-02 21:21:13.120420",
+        "sarki_adi": "Don't Stay",
+        "sanatci": "Linkin Park",
+        "spotify_id": "6HZdbb05lEXLvcmee3ZXO2",
+        "populerlik": 59,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 71,
+        "tarih": "2025-12-02 21:22:16.938123",
+        "sarki_adi": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+        "sanatci": "Metro Boomin",
+        "spotify_id": "3SsJ17EnPIu1B4GZshqjIS",
+        "populerlik": 65,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 72,
+        "tarih": "2025-12-02 21:23:20.557854",
+        "sarki_adi": "Bohemian Rhapsody - Remastered 2011",
+        "sanatci": "Queen",
+        "spotify_id": "7tFiyTwD0nx5a1eklYtX2J",
+        "populerlik": 76,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 73,
+        "tarih": "2025-12-02 21:24:24.239902",
+        "sarki_adi": "Galaktik",
+        "sanatci": "Allame",
+        "spotify_id": "4HD2JqwQtTI1zrHHA8dOAc",
+        "populerlik": 46,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 74,
+        "tarih": "2025-12-02 21:25:27.849117",
+        "sarki_adi": "Fooled Around And Fell In Love",
+        "sanatci": "Elvin Bishop",
+        "spotify_id": "2hE5Lm5XOHR4t3xlhIFauP",
+        "populerlik": 62,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 75,
+        "tarih": "2025-12-02 21:26:31.555583",
+        "sarki_adi": "Demon's Throne",
+        "sanatci": "Kota Suzuki",
+        "spotify_id": "2Jp6C4qYGEHu3D8CZXE7rH",
+        "populerlik": 16,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 76,
+        "tarih": "2025-12-02 21:27:35.283375",
+        "sarki_adi": "Kork Benden",
+        "sanatci": "Pickpocket",
+        "spotify_id": "5Urn8wlmadLY6jWkE5jESx",
+        "populerlik": 22,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 77,
+        "tarih": "2025-12-02 21:28:38.892727",
+        "sarki_adi": "No Problem",
+        "sanatci": "Beta Berk Bayındır",
+        "spotify_id": "4Y8wxpnMWpTpk87DQ0m5D4",
+        "populerlik": 26,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 78,
+        "tarih": "2025-12-02 21:29:42.493293",
+        "sarki_adi": "Get It Hot",
+        "sanatci": "AC/DC",
+        "spotify_id": "7HbHwtTGM3kCjDtmP00x4h",
+        "populerlik": 50,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 79,
+        "tarih": "2025-12-02 21:30:46.088217",
+        "sarki_adi": "Ben Kolsuz - 2",
+        "sanatci": "Cem Kısmet - Pilli Bebek",
+        "spotify_id": "2L4Ua4av2ynAqyN9jPKuUk",
+        "populerlik": 9,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 80,
+        "tarih": "2025-12-02 21:31:49.759308",
+        "sarki_adi": "M-2 START(ダンテ事務所前で7ヘルズ登場)",
+        "sanatci": "Capcom Sound Team",
+        "spotify_id": "54BG4uztTQrPgksbsR71gt",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 81,
+        "tarih": "2025-12-02 21:32:53.498811",
+        "sarki_adi": "Gitme - Demo",
+        "sanatci": "Dengesiz Herifler",
+        "spotify_id": "2ir7eJKDMYacmTKm4TLg9E",
+        "populerlik": 5,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 82,
+        "tarih": "2025-12-02 21:33:57.109876",
+        "sarki_adi": "Like That",
+        "sanatci": "Future",
+        "spotify_id": "2tudvzsrR56uom6smgOcSf",
+        "populerlik": 82,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 83,
+        "tarih": "2025-12-02 21:35:00.919284",
+        "sarki_adi": "İnsan ve İnanç (Skit)",
+        "sanatci": "Sagopa Kajmer",
+        "spotify_id": "70iAoLkmv1zmuPT0QkJF37",
+        "populerlik": 0,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 84,
+        "tarih": "2025-12-02 21:36:04.643060",
+        "sarki_adi": "Teddy Picker",
+        "sanatci": "Arctic Monkeys",
+        "spotify_id": "5kxVyCgEUND7E2QKG7JmoF",
+        "populerlik": 68,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 85,
+        "tarih": "2025-12-02 21:37:08.331622",
+        "sarki_adi": "I Can't Fix You (feat. Crusher-P)",
+        "sanatci": "The Living Tombstone",
+        "spotify_id": "5ZXvCHbKFP2uIoCyXF30xI",
+        "populerlik": 67,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 86,
+        "tarih": "2025-12-02 21:38:12.010904",
+        "sarki_adi": "Fresh - Mark Berry Remix '85",
+        "sanatci": "Kool & The Gang",
+        "spotify_id": "4BOsUAg4inxAIR9Y8hw1zk",
+        "populerlik": 31,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 87,
+        "tarih": "2025-12-02 21:39:15.654140",
+        "sarki_adi": "Rx Queen",
+        "sanatci": "Deftones",
+        "spotify_id": "6HgrJfzfj9WRBABdussy8z",
+        "populerlik": 63,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 88,
+        "tarih": "2025-12-02 21:40:19.451077",
+        "sarki_adi": "miss u",
+        "sanatci": "Hayden Moeller",
+        "spotify_id": "0IZZKHJoBH8J033YJykdzk",
+        "populerlik": 14,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 89,
+        "tarih": "2025-12-02 21:41:23.065793",
+        "sarki_adi": "Tousotsusareta Tatakai",
+        "sanatci": "Yugo Kanno",
+        "spotify_id": "3suoW0bs3bMuAezWU8AlCj",
+        "populerlik": 17,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 90,
+        "tarih": "2025-12-02 21:42:26.715209",
+        "sarki_adi": "Taş",
+        "sanatci": "Gökhan Türkmen",
+        "spotify_id": "37DJXPDpTHiHyGrBuv6g0p",
+        "populerlik": 62,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 91,
+        "tarih": "2025-12-02 21:43:30.337730",
+        "sarki_adi": "Homecoming",
+        "sanatci": "Kanye West",
+        "spotify_id": "4iz9lGMjU1lXS51oPmUmTe",
+        "populerlik": 83,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 92,
+        "tarih": "2025-12-02 21:44:34.049743",
+        "sarki_adi": "Speed Demon - 2012 Remaster",
+        "sanatci": "Michael Jackson",
+        "spotify_id": "5SpHSOne318K5q7EBYndT6",
+        "populerlik": 58,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 93,
+        "tarih": "2025-12-02 21:45:37.679723",
+        "sarki_adi": "Gel Benimle",
+        "sanatci": "Yaşar",
+        "spotify_id": "3uIIQaHIV0cOOmBtitN0BX",
+        "populerlik": 52,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 94,
+        "tarih": "2025-12-02 21:46:41.305902",
+        "sarki_adi": "Start Wit Me (feat. Gunna)",
+        "sanatci": "Roddy Ricch",
+        "spotify_id": "7A20WnLkjtZU2d7hIB6Ziu",
+        "populerlik": 61,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 95,
+        "tarih": "2025-12-02 21:47:44.933487",
+        "sarki_adi": "20200324",
+        "sanatci": "Mac DeMarco",
+        "spotify_id": "4oqB80ceptoDnZyieVkiMA",
+        "populerlik": 35,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 96,
+        "tarih": "2025-12-02 21:48:49.998137",
+        "sarki_adi": "Yok Devenin Nalı",
+        "sanatci": "Grup Vitamin",
+        "spotify_id": "7cULiMxNXbV75wIrhtFko0",
+        "populerlik": 11,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 97,
+        "tarih": "2025-12-02 21:49:53.714779",
+        "sarki_adi": "Cyber Space 4-4: Wishes in the Wind",
+        "sanatci": "SEGA SOUND TEAM",
+        "spotify_id": "6ZsNx9IqmkRLS9SFPVeteM",
+        "populerlik": 25,
+        "dinlenen_sure_sn": 60
+    },
+    {
+        "sira": 98,
+        "tarih": "2025-12-02 21:50:57.657580",
+        "sarki_adi": "Is That All It Takes",
+        "sanatci": "Djo",
+        "spotify_id": "196guQJEBBLCO9X9NLrqmR",
+        "populerlik": 5,
         "dinlenen_sure_sn": 60
     }
 ]

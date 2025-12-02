@@ -10,11 +10,11 @@ CLIENT_SECRET = "d0ea3841b1394afc8e43b3e4d50fab77"
 REDIRECT_URI = "http://127.0.0.1:8888"
 SCOPE = "user-modify-playback-state user-read-playback-state user-read-currently-playing"
 
-TOTAL_SONGS_TO_TEST = 5
+TOTAL_SONGS_TO_TEST = 100
 LISTEN_DURATION = 60  # saniye
 
 # Dinletmek istediğin playlist (kendininkini yaz)
-PLAYLIST_URI = "spotify:playlist:52Ul3jyC5OLFnOhx7MB6qd?si=7b06896e43794fd7"  # örnek
+PLAYLIST_URI = "spotify:playlist:52Ul3jyC5OLFnOhx7MB6qd?si=ef4449f443f8475d"  # örnek
 
 # --- FONKSİYON: AKTİF CİHAZ BUL ---
 def get_active_device(sp):

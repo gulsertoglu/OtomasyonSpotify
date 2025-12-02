@@ -4,7 +4,7 @@ import os
 
 # --- 1. AYARLAR ---
 # Google AI Studio'dan aldığın anahtarı buraya yapıştır
-GOOGLE_API_KEY = "AIzaSyCkyEoPnbLBuXBPXU6UG4opqXrxDG9X-24"
+GOOGLE_API_KEY = "AIzaSyAzqQkulrRnMaUUMihCxxzIEziERHaFX_U"
 
 # Ayarları yap
 genai.configure(api_key=GOOGLE_API_KEY)
@@ -16,9 +16,9 @@ model = genai.GenerativeModel('gemini-2.0-flash')
 try:
     with open('sonuclar.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
-    print(f"✅ {len(data)} adet şarkı verisi yüklendi.")
+    print(f"{len(data)} adet şarkı verisi yüklendi.")
 except FileNotFoundError:
-    print("❌ 'sonuclar.json' bulunamadı! Önce algoritma.py'yi çalıştırıp veri topla.")
+    print("'sonuclar.json' bulunamadı! Önce algoritma.py'yi çalıştırıp veri topla.")
     exit()
 
 # --- 3. GEMINI İÇİN MESAJI HAZIRLA (PROMPT) ---
@@ -49,7 +49,7 @@ LÜTFEN ŞUNLARI ANALİZ ET:
 """
 
 # --- 4. GEMINI'YE GÖNDER VE SONUCU AL ---
-print("🤖 Gemini şarkıları analiz ediyor... Lütfen bekle...")
+print("Gemini şarkıları analiz ediyor... Lütfen bekle...")
 
 try:
     response = model.generate_content(prompt)
@@ -69,4 +69,4 @@ try:
         f.write(cevap_text)
         
 except Exception as e:
-    print(f"❌ Gemini Hatası: {e}")
+    print(f"Gemini Hatası: {e}")
