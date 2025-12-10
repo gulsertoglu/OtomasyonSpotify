@@ -11,9 +11,9 @@ def load_session(path: str):
         return json.load(f)
 
 
-# --------------------------------------------------------------
-# 1) GENRE DISTRIBUTION (BAR GRAPH)
-# --------------------------------------------------------------
+
+# TÜR DAĞILIMI
+
 
 def plot_genre_distribution(tracks):
     all_genres = []
@@ -40,9 +40,9 @@ def plot_genre_distribution(tracks):
     plt.show()
 
 
-# --------------------------------------------------------------
-# 2) POPULARITY TREND (LINE GRAPH)
-# --------------------------------------------------------------
+
+# POPÜLARİTE ÇİZGİSİ
+
 
 def plot_popularity_trend(tracks):
     popularity = [t.get("popularity", 0) for t in tracks]
@@ -59,9 +59,8 @@ def plot_popularity_trend(tracks):
     plt.show()
 
 
-# --------------------------------------------------------------
-# 3) GENRE SIMILARITY HEATMAP
-# --------------------------------------------------------------
+
+# 3) ISI HARİTASI
 
 def jaccard(set1, set2):
     if not set1 and not set2:
@@ -90,9 +89,7 @@ def plot_genre_similarity(tracks):
     plt.show()
 
 
-# --------------------------------------------------------------
-# MAIN
-# --------------------------------------------------------------
+# Komut
 
 if __name__ == "__main__":
     path = input("Session JSON gir (data/sessions/...): ").strip()
@@ -106,4 +103,4 @@ if __name__ == "__main__":
     plot_popularity_trend(tracks)
     plot_genre_similarity(tracks)
 
-    print("\nBİTTİ! 🔥")
+    print("\nSon")
