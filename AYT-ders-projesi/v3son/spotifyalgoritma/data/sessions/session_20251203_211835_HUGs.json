@@ -1,0 +1,416 @@
+{
+  "created_at": "2025-12-03T21:18:35.651573Z",
+  "num_steps": 25,
+  "listen_seconds": 2,
+  "tracks": [
+    {
+      "id": "0r9VDnfH7A8paz4qnH4Jyk",
+      "name": "HUGs",
+      "artists": [
+        "Paledusk"
+      ],
+      "album": "HUGs",
+      "album_id": "3ZyIZflcr8XMlzbccIxjvv",
+      "release_date": "2025-07-28",
+      "duration_ms": 333283,
+      "popularity": 65,
+      "artist_genres_main": [
+        "mathcore",
+        "anime"
+      ],
+      "order_index": 0
+    },
+    {
+      "id": "2uKky0r5VtN40CHK5E7d3V",
+      "name": "SATORi SEDAi",
+      "artists": [
+        "NEON ONI"
+      ],
+      "album": "NIHILISM",
+      "album_id": "69bioaFQFgr33gkdUuOscN",
+      "release_date": "2025-09-27",
+      "duration_ms": 205653,
+      "popularity": 53,
+      "artist_genres_main": [],
+      "order_index": 1
+    },
+    {
+      "id": "7CAbF0By0Fpnbiu6Xn5ZF7",
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artists": [
+        "Bring Me The Horizon",
+        "BABYMETAL"
+      ],
+      "album": "POST HUMAN: SURVIVAL HORROR",
+      "album_id": "0e1WaSNDZnoPixaxDNdWo4",
+      "release_date": "2020-10-30",
+      "duration_ms": 220041,
+      "popularity": 75,
+      "artist_genres_main": [
+        "metalcore",
+        "emo",
+        "screamo",
+        "rock",
+        "post-hardcore"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "2WG78GhtscUQJnUMZLyJXN",
+      "name": "Namu",
+      "artists": [
+        "Sable Hills"
+      ],
+      "album": "Namu",
+      "album_id": "0HH0rLAe8G6aZMmV003Idq",
+      "release_date": "2025-10-23",
+      "duration_ms": 220839,
+      "popularity": 52,
+      "artist_genres_main": [
+        "metalcore",
+        "deathcore"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "51o21I12ZFahXaCviz95M6",
+      "name": "お先に失礼します。",
+      "artists": [
+        "花冷え。"
+      ],
+      "album": "来世は偉人！",
+      "album_id": "7zjt6aRii06qmD77RSBAYi",
+      "release_date": "2023-07-26",
+      "duration_ms": 190866,
+      "popularity": 55,
+      "artist_genres_main": [
+        "visual kei"
+      ],
+      "order_index": 4
+    },
+    {
+      "id": "5r2ctEKO9aSEudC85lqZZT",
+      "name": "SLAY!!",
+      "artists": [
+        "Paledusk",
+        "Hideyoshi"
+      ],
+      "album": "SLAY!!",
+      "album_id": "1Si2sHK43ZueadlTaBP6bO",
+      "release_date": "2022-02-16",
+      "duration_ms": 192753,
+      "popularity": 47,
+      "artist_genres_main": [
+        "mathcore",
+        "anime"
+      ],
+      "order_index": 5
+    },
+    {
+      "id": "0JHmUZvsqyo61F9P7cj6H4",
+      "name": "Get No Satisfied !",
+      "artists": [
+        "JAM Project",
+        "BABYMETAL"
+      ],
+      "album": "Get No Satisfied !",
+      "album_id": "61CCH8KBUkIbCfvYXDtCZu",
+      "release_date": "2025-10-13",
+      "duration_ms": 228287,
+      "popularity": 56,
+      "artist_genres_main": [
+        "anime"
+      ],
+      "order_index": 6
+    },
+    {
+      "id": "6lfjLdgHpsIZ2HZf2ZO88o",
+      "name": "don't forget ur mask",
+      "artists": [
+        "NEON ONI"
+      ],
+      "album": "NEON ONI",
+      "album_id": "0IPMhGd2v757tKBHQwbjRQ",
+      "release_date": "2025-08-18",
+      "duration_ms": 235279,
+      "popularity": 46,
+      "artist_genres_main": [],
+      "order_index": 7
+    },
+    {
+      "id": "5BM4MXIGFZnTtKhE6o6NUw",
+      "name": "FUHAI",
+      "artists": [
+        "Knosis",
+        "花冷え。"
+      ],
+      "album": "GENKNOSIS",
+      "album_id": "1Ra2mUwfvzmfNEtsWzyvx4",
+      "release_date": "2025-08-01",
+      "duration_ms": 194270,
+      "popularity": 34,
+      "artist_genres_main": [
+        "metalcore",
+        "deathcore"
+      ],
+      "order_index": 8
+    },
+    {
+      "id": "6k0X05danQOXSBTVek5DU1",
+      "name": "The Rumbling",
+      "artists": [
+        "SiM"
+      ],
+      "album": "The Rumbling",
+      "album_id": "0YK5JsSCN2Z8g1ejHuBqeg",
+      "release_date": "2022-02-07",
+      "duration_ms": 220799,
+      "popularity": 70,
+      "artist_genres_main": [
+        "anime"
+      ],
+      "order_index": 9
+    },
+    {
+      "id": "0XuctrPVJmwNifmEaoC5Bj",
+      "name": "We love sweets",
+      "artists": [
+        "花冷え。"
+      ],
+      "album": "Girl's Reform Manifest",
+      "album_id": "3i2kVpXqdAq9CsUdLG555B",
+      "release_date": "2021-01-14",
+      "duration_ms": 159519,
+      "popularity": 51,
+      "artist_genres_main": [
+        "visual kei"
+      ],
+      "order_index": 10
+    },
+    {
+      "id": "6nmOIy04qnDqRFXePEjnPs",
+      "name": "BBB",
+      "artists": [
+        "Paledusk",
+        "Such"
+      ],
+      "album": "BBB",
+      "album_id": "3Mkz92SxIR2f4ZsQMUVxcD",
+      "release_date": "2022-04-20",
+      "duration_ms": 200000,
+      "popularity": 39,
+      "artist_genres_main": [
+        "mathcore",
+        "anime"
+      ],
+      "order_index": 11
+    },
+    {
+      "id": "24JAm9Rp43KfcCJAb3186t",
+      "name": "MAISIE",
+      "artists": [
+        "Cö shu Nie",
+        "HYDE"
+      ],
+      "album": "MAISIE",
+      "album_id": "2JquzazGAECf177YfAXHNx",
+      "release_date": "2025-04-05",
+      "duration_ms": 193925,
+      "popularity": 50,
+      "artist_genres_main": [
+        "anime",
+        "j-pop"
+      ],
+      "order_index": 12
+    },
+    {
+      "id": "5gM9LS4kjLGzXhh5Qfx53r",
+      "name": "HIKIKOMORI",
+      "artists": [
+        "NEON ONI"
+      ],
+      "album": "NIHILISM",
+      "album_id": "69bioaFQFgr33gkdUuOscN",
+      "release_date": "2025-09-27",
+      "duration_ms": 185002,
+      "popularity": 43,
+      "artist_genres_main": [],
+      "order_index": 13
+    },
+    {
+      "id": "4MTgIH5OZQHAbdBWgbKSAb",
+      "name": "MUKANJYO",
+      "artists": [
+        "Survive Said The Prophet"
+      ],
+      "album": "MUKANJYO",
+      "album_id": "1FGsYEkFLkIv9ffhgoOgZh",
+      "release_date": "2019-08-02",
+      "duration_ms": 192400,
+      "popularity": 61,
+      "artist_genres_main": [
+        "anime"
+      ],
+      "order_index": 14
+    },
+    {
+      "id": "68RAZvvgOVbc5y8SyDPjXE",
+      "name": "Ready to Rock",
+      "artists": [
+        "BAND-MAID"
+      ],
+      "album": "SCOOOOOP",
+      "album_id": "73yP70Vn8ufvR0N2JoSAJ4",
+      "release_date": "2025-10-22",
+      "duration_ms": 213283,
+      "popularity": 42,
+      "artist_genres_main": [],
+      "order_index": 15
+    },
+    {
+      "id": "3I48EGIIUz6xDE87NoYI5y",
+      "name": "SUPER PALE HORSE",
+      "artists": [
+        "Paledusk",
+        "CVLTE"
+      ],
+      "album": "PALEHELL",
+      "album_id": "4RJm4nESvtZRn9MV3sOs9V",
+      "release_date": "2024-02-21",
+      "duration_ms": 191428,
+      "popularity": 36,
+      "artist_genres_main": [
+        "mathcore",
+        "anime"
+      ],
+      "order_index": 16
+    },
+    {
+      "id": "6UtV1xntPbEgbbY8Dh2tQn",
+      "name": "Spicy Queen",
+      "artists": [
+        "花冷え。"
+      ],
+      "album": "Spicy Queen",
+      "album_id": "6g6RUAmiCQbW9H8nq324XK",
+      "release_date": "2025-05-28",
+      "duration_ms": 229105,
+      "popularity": 52,
+      "artist_genres_main": [
+        "visual kei"
+      ],
+      "order_index": 17
+    },
+    {
+      "id": "59hVbgr8rfYkDbHfr8RcGI",
+      "name": "IRIS OUT",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "album": "IRIS OUT",
+      "album_id": "06re45NBDCPah74jnVOISQ",
+      "release_date": "2025-09-15",
+      "duration_ms": 151573,
+      "popularity": 89,
+      "artist_genres_main": [
+        "j-pop",
+        "anime"
+      ],
+      "order_index": 18
+    },
+    {
+      "id": "3w8qOAwbHF6zYeYT7pj7DI",
+      "name": "Devil in Your Heart",
+      "artists": [
+        "SiM"
+      ],
+      "album": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+      "album_id": "1NqQpcihfQEtMLJ3pz8Wi3",
+      "release_date": "2020-06-17",
+      "duration_ms": 186026,
+      "popularity": 52,
+      "artist_genres_main": [
+        "anime"
+      ],
+      "order_index": 19
+    },
+    {
+      "id": "6euwgOanJOzsBeZUDTbx29",
+      "name": "found & lost",
+      "artists": [
+        "Survive Said The Prophet"
+      ],
+      "album": "s p a c e [ s ]",
+      "album_id": "0CgeV903VAMyVTcNF19q4E",
+      "release_date": "2018-09-26",
+      "duration_ms": 188960,
+      "popularity": 52,
+      "artist_genres_main": [
+        "anime"
+      ],
+      "order_index": 20
+    },
+    {
+      "id": "6Y2BeP2aMpG5h4xOMrU0dl",
+      "name": "I ♡ YOU BABY!!",
+      "artists": [
+        "Paledusk"
+      ],
+      "album": "PALEDUSK",
+      "album_id": "60WzIOT8v9ww4FeKfndWwI",
+      "release_date": "2025-11-26",
+      "duration_ms": 146502,
+      "popularity": 39,
+      "artist_genres_main": [
+        "mathcore",
+        "anime"
+      ],
+      "order_index": 21
+    },
+    {
+      "id": "38kcwx5znepLWCIBID0Bwm",
+      "name": "Kyouran Hey Kids!!",
+      "artists": [
+        "THE ORAL CIGARETTES"
+      ],
+      "album": "FIXION",
+      "album_id": "7uy0IV2P1VxmeYcssedEq0",
+      "release_date": "2016-01-05",
+      "duration_ms": 250973,
+      "popularity": 69,
+      "artist_genres_main": [
+        "anime",
+        "j-pop"
+      ],
+      "order_index": 22
+    },
+    {
+      "id": "2F4kPPIbrF4T2pGxmWrkr2",
+      "name": "As the World Burns 世界が燃え上がる中で",
+      "artists": [
+        "Metal Blossom 金属の花"
+      ],
+      "album": "As the World Burns 世界が燃え上がる中で",
+      "album_id": "7vvzCaoccmGfOxKW45m7RU",
+      "release_date": "2025-05-07",
+      "duration_ms": 190720,
+      "popularity": 36,
+      "artist_genres_main": [],
+      "order_index": 23
+    },
+    {
+      "id": "5AdRQzPZtqbOKcJ0cu17BH",
+      "name": "Sonna Ni Kantan Na Noni",
+      "artists": [
+        "Merciless Cult"
+      ],
+      "album": "Broken Mirror",
+      "album_id": "447iGTVPsQH9MOk2kIV5YN",
+      "release_date": "2025-07-25",
+      "duration_ms": 224000,
+      "popularity": 51,
+      "artist_genres_main": [],
+      "order_index": 24
+    }
+  ]
+}

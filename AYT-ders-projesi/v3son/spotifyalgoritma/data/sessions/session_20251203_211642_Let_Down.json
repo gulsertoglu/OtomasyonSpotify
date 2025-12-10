@@ -1,0 +1,392 @@
+{
+  "created_at": "2025-12-03T21:16:42.523161Z",
+  "num_steps": 25,
+  "listen_seconds": 2,
+  "tracks": [
+    {
+      "id": "2fuYa3Lx06QQJAm0MjztKr",
+      "name": "Let Down",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "album_id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+      "release_date": "1997-05-28",
+      "duration_ms": 299560,
+      "popularity": 90,
+      "artist_genres_main": [
+        "art rock",
+        "alternative rock"
+      ],
+      "order_index": 0
+    },
+    {
+      "id": "3oEkrIfXfSh9zGnE7eBzSV",
+      "name": "The Winner Takes It All",
+      "artists": [
+        "ABBA"
+      ],
+      "album": "Super Trouper",
+      "album_id": "3ZdkT5buYFi1WQaB0XNNtf",
+      "release_date": "1980",
+      "duration_ms": 294720,
+      "popularity": 85,
+      "artist_genres_main": [],
+      "order_index": 1
+    },
+    {
+      "id": "5Mu5BFHb4vFS5cw0hbDICV",
+      "name": "i miss your warm hands",
+      "artists": [
+        "i don't like mirrors"
+      ],
+      "album": "Not How it's Supposed to be",
+      "album_id": "36tFrKEi71NmEQP8QCnZ4q",
+      "release_date": "2023-10-17",
+      "duration_ms": 131730,
+      "popularity": 73,
+      "artist_genres_main": [
+        "slowcore"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "7EAMXbLcL0qXmciM5SwMh2",
+      "name": "Heart To Heart",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Here Comes The Cowboy",
+      "album_id": "67PsnkYVPNpEsZffyTWGgW",
+      "release_date": "2019-05-10",
+      "duration_ms": 211140,
+      "popularity": 83,
+      "artist_genres_main": [
+        "indie",
+        "lo-fi indie"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "0NLm9bQG7ikL5k9x9TtYT7",
+      "name": "Here With Me",
+      "artists": [
+        "d4vd"
+      ],
+      "album": "Petals to Thorns",
+      "album_id": "5ZeC565lvqy4AOVE0QgyFl",
+      "release_date": "2023-05-26",
+      "duration_ms": 242484,
+      "popularity": 85,
+      "artist_genres_main": [],
+      "order_index": 4
+    },
+    {
+      "id": "70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Pablo Honey",
+      "album_id": "3gBVdu4a1MMJVMy6vwPEb8",
+      "release_date": "1993-02-22",
+      "duration_ms": 238640,
+      "popularity": 92,
+      "artist_genres_main": [
+        "art rock",
+        "alternative rock"
+      ],
+      "order_index": 5
+    },
+    {
+      "id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "album": "HIT ME HARD AND SOFT",
+      "album_id": "7aJuG4TFXa2hmE4z1yxc3n",
+      "release_date": "2024-05-17",
+      "duration_ms": 261466,
+      "popularity": 93,
+      "artist_genres_main": [],
+      "order_index": 6
+    },
+    {
+      "id": "026wpXkLAjImiWOzzcJBHj",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "album_id": "6t0nA7Lc6yMnIl3IB4QhNT",
+      "release_date": "2022-08-18",
+      "duration_ms": 214800,
+      "popularity": 83,
+      "artist_genres_main": [],
+      "order_index": 7
+    },
+    {
+      "id": "0InIeZW4P6VO7dUGRM4AKH",
+      "name": "Sienna",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "album_id": "03guxdOi12XJbnvxvxbpwG",
+      "release_date": "2024-05-31",
+      "duration_ms": 224840,
+      "popularity": 88,
+      "artist_genres_main": [
+        "bedroom pop"
+      ],
+      "order_index": 8
+    },
+    {
+      "id": "2R4AlwtrrkMaRKojcTIzmL",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "album_id": "4NNq2vwTapv4fSJcrZbPH7",
+      "release_date": "2017-05-05",
+      "duration_ms": 182306,
+      "popularity": 83,
+      "artist_genres_main": [
+        "indie",
+        "lo-fi indie"
+      ],
+      "order_index": 9
+    },
+    {
+      "id": "63OQupATfueTdZMWTxW03A",
+      "name": "Karma Police",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "album_id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+      "release_date": "1997-05-28",
+      "duration_ms": 264066,
+      "popularity": 82,
+      "artist_genres_main": [
+        "art rock",
+        "alternative rock"
+      ],
+      "order_index": 10
+    },
+    {
+      "id": "4iVj0UxqLlgrFWNdOnCwFS",
+      "name": "Mrs Magic (Strings Version)",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "F Song & Mrs Magic (Strings Versions)",
+      "album_id": "0dmvkvTV6y5J58ejixsOQH",
+      "release_date": "2023-10-04",
+      "duration_ms": 221929,
+      "popularity": 77,
+      "artist_genres_main": [
+        "bedroom pop"
+      ],
+      "order_index": 11
+    },
+    {
+      "id": "0hta2Lb2zKJ7kEnAEZEE3G",
+      "name": "Nope your too late i already died",
+      "artists": [
+        "wifiskeleton",
+        "i wanna be a jack-o-lantern"
+      ],
+      "album": "suburban daredevil",
+      "album_id": "16g3MJk9OmtNXwRrrPMPUK",
+      "release_date": "2024-10-22",
+      "duration_ms": 90067,
+      "popularity": 87,
+      "artist_genres_main": [],
+      "order_index": 12
+    },
+    {
+      "id": "2VtXANhW6YpAzsMDQCFkAv",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "album_id": "47rlABSBChwZC7qxAKzOWw",
+      "release_date": "2024-04-05",
+      "duration_ms": 229728,
+      "popularity": 74,
+      "artist_genres_main": [
+        "shoegaze"
+      ],
+      "order_index": 13
+    },
+    {
+      "id": "5e0b9LgOfi3aJSKXFcOWRe",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "album_id": "3sgTZuoyovg4bR5iTgQoo3",
+      "release_date": "2023-11-28",
+      "duration_ms": 132160,
+      "popularity": 84,
+      "artist_genres_main": [],
+      "order_index": 14
+    },
+    {
+      "id": "6yiSyupeI7KYdBZKJdnIUO",
+      "name": "Go Slowly",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "In Rainbows (Disk 2)",
+      "album_id": "6zTAW5oRuOmxJuUHhcQope",
+      "release_date": "2007",
+      "duration_ms": 228236,
+      "popularity": 66,
+      "artist_genres_main": [
+        "art rock",
+        "alternative rock"
+      ],
+      "order_index": 15
+    },
+    {
+      "id": "7w5AOd6HrDIHewHfpABEss",
+      "name": "Wicked Game",
+      "artists": [
+        "Chris Isaak"
+      ],
+      "album": "Heart Shaped World",
+      "album_id": "5Das42Qx4AoU9iT4M7PW3U",
+      "release_date": "1989-06-13",
+      "duration_ms": 289066,
+      "popularity": 85,
+      "artist_genres_main": [],
+      "order_index": 16
+    },
+    {
+      "id": "7mDTvYD2ieE4Q28XFziMfJ",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "album_id": "63yRRBtLX8eqbOLD6f0y9U",
+      "release_date": "2019-10-25",
+      "duration_ms": 256799,
+      "popularity": 89,
+      "artist_genres_main": [
+        "dream pop"
+      ],
+      "order_index": 17
+    },
+    {
+      "id": "0BxE4FqsDD1Ot4YuBXwAPp",
+      "name": "505",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "Favourite Worst Nightmare",
+      "album_id": "1XkGORuUX2QGOEIL4EbJKm",
+      "release_date": "2007-04-22",
+      "duration_ms": 253586,
+      "popularity": 87,
+      "artist_genres_main": [
+        "indie",
+        "garage rock"
+      ],
+      "order_index": 18
+    },
+    {
+      "id": "1SKPmfSYaPsETbRHaiA18G",
+      "name": "Somewhere Only We Know",
+      "artists": [
+        "Keane"
+      ],
+      "album": "Hopes And Fears",
+      "album_id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+      "release_date": "2004-05-10",
+      "duration_ms": 237146,
+      "popularity": 87,
+      "artist_genres_main": [],
+      "order_index": 19
+    },
+    {
+      "id": "10nyNJ6zNy2YVYLrcwLccB",
+      "name": "No Surprises",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "album_id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+      "release_date": "1997-05-28",
+      "duration_ms": 229120,
+      "popularity": 88,
+      "artist_genres_main": [
+        "art rock",
+        "alternative rock"
+      ],
+      "order_index": 20
+    },
+    {
+      "id": "08PdFBcXzpkn1cWNgmKqhn",
+      "name": "Promise",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Bewitched",
+      "album_id": "1rpCHilZQkw84A3Y9czvMO",
+      "release_date": "2023-09-08",
+      "duration_ms": 234266,
+      "popularity": 79,
+      "artist_genres_main": [],
+      "order_index": 21
+    },
+    {
+      "id": "00RLNHc2jkEjUoCUlFgPVT",
+      "name": "welcome and goodbye",
+      "artists": [
+        "Dream, Ivory"
+      ],
+      "album": "welcome and goodbye",
+      "album_id": "0hZJDoAmB6xVegy0o1eAZd",
+      "release_date": "2018-03-31",
+      "duration_ms": 140643,
+      "popularity": 82,
+      "artist_genres_main": [],
+      "order_index": 22
+    },
+    {
+      "id": "51Grh1RyUDcMBbpuyUIUHI",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "album_id": "295qW3R6DSM1WfePwUpgux",
+      "release_date": "2019-04-10",
+      "duration_ms": 161929,
+      "popularity": 82,
+      "artist_genres_main": [],
+      "order_index": 23
+    },
+    {
+      "id": "1lb0KfG9EyfSBsEifTUtXY",
+      "name": "someday i'll get it",
+      "artists": [
+        "Alek Olsen"
+      ],
+      "album": "someday i'll get it",
+      "album_id": "2YXww1viuuKZPi458rdopk",
+      "release_date": "2023-10-26",
+      "duration_ms": 94750,
+      "popularity": 77,
+      "artist_genres_main": [],
+      "order_index": 24
+    }
+  ]
+}

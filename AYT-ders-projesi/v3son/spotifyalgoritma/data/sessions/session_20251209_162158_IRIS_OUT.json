@@ -1,0 +1,95 @@
+{
+  "created_at": "2025-12-09T16:21:58.626024Z",
+  "num_steps": 5,
+  "listen_seconds": 3,
+  "tracks": [
+    {
+      "id": "59hVbgr8rfYkDbHfr8RcGI",
+      "name": "IRIS OUT",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "album": "IRIS OUT",
+      "album_id": "06re45NBDCPah74jnVOISQ",
+      "release_date": "2025-09-15",
+      "duration_ms": 151573,
+      "popularity": 89,
+      "artist_genres_main": [
+        "j-pop",
+        "anime",
+        "j-rock"
+      ],
+      "order_index": 0
+    },
+    {
+      "id": "0o9zmvc5f3EFApU52PPIyW",
+      "name": "Shinunoga E-Wa",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "album": "HELP EVER HURT NEVER",
+      "album_id": "1OojCidx0eoPKch2M0Kz31",
+      "release_date": "2020-05-20",
+      "duration_ms": 185573,
+      "popularity": 78,
+      "artist_genres_main": [
+        "j-pop"
+      ],
+      "order_index": 1
+    },
+    {
+      "id": "7nF9c1EmRF3BNAtKDCwUAK",
+      "name": "Cry Baby",
+      "artists": [
+        "OFFICIAL HIGE DANDISM"
+      ],
+      "album": "Editorial",
+      "album_id": "22nXr9DqkTAp1Y0GT1ialu",
+      "release_date": "2021-08-18",
+      "duration_ms": 241680,
+      "popularity": 60,
+      "artist_genres_main": [
+        "j-pop",
+        "anime",
+        "j-rock"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "0qMip0B2D4ePEjBJvAtYre",
+      "name": "紅蓮華",
+      "artists": [
+        "LiSA"
+      ],
+      "album": "LEO-NiNE",
+      "album_id": "6qi56zXbhq7PU5lvzWNXIO",
+      "release_date": "2020-10-14",
+      "duration_ms": 237586,
+      "popularity": 74,
+      "artist_genres_main": [
+        "anime",
+        "j-pop",
+        "j-rock"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "1QkEUbGSlp70DYNFcxcxYI",
+      "name": "veil",
+      "artists": [
+        "須田景凪"
+      ],
+      "album": "Billow",
+      "album_id": "3CzcEHy5nGbKPkA56ssTwd",
+      "release_date": "2021-02-03",
+      "duration_ms": 209636,
+      "popularity": 63,
+      "artist_genres_main": [
+        "anime",
+        "j-pop",
+        "j-rock"
+      ],
+      "order_index": 4
+    }
+  ]
+}

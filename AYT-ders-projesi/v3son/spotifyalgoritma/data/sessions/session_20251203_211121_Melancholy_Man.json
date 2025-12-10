@@ -1,0 +1,433 @@
+{
+  "created_at": "2025-12-03T21:11:21.255275Z",
+  "num_steps": 25,
+  "listen_seconds": 2,
+  "tracks": [
+    {
+      "id": "1NeQzAqahRYI09bgLbhVFN",
+      "name": "Melancholy Man",
+      "artists": [
+        "The Moody Blues"
+      ],
+      "album": "A Question Of Balance",
+      "album_id": "1TOvW3icPZmigoT9CrRav5",
+      "release_date": "1970-08-07",
+      "duration_ms": 345346,
+      "popularity": 50,
+      "artist_genres_main": [
+        "progressive rock",
+        "art rock",
+        "blues",
+        "psychedelic rock",
+        "baroque pop"
+      ],
+      "order_index": 0
+    },
+    {
+      "id": "7D85lILwJbxMIXnRyDRO1o",
+      "name": "Prepare for Disappointment",
+      "artists": [
+        "Matt Elliott"
+      ],
+      "album": "Only Myocardial Infarction Can Break Your Heart",
+      "album_id": "6zueIKwehn8RUW2ZZllSh1",
+      "release_date": "2013-10-18",
+      "duration_ms": 210253,
+      "popularity": 43,
+      "artist_genres_main": [
+        "slowcore"
+      ],
+      "order_index": 1
+    },
+    {
+      "id": "4FqSL5KXpydcBMfbDQvvPu",
+      "name": "To Leave",
+      "artists": [
+        "Shamrain"
+      ],
+      "album": "Someplace Else",
+      "album_id": "2zVhvWoYCWZzY8r4YJro1h",
+      "release_date": "2005-01-06",
+      "duration_ms": 267160,
+      "popularity": 47,
+      "artist_genres_main": [
+        "gothic metal"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "4QOECnEv6cZzKLNfp65ytP",
+      "name": "Lulu",
+      "artists": [
+        "No Clear Mind"
+      ],
+      "album": "Makena",
+      "album_id": "0ST1K7ITJyyGR7JHrDfhUT",
+      "release_date": "2016-12-01",
+      "duration_ms": 270999,
+      "popularity": 44,
+      "artist_genres_main": [
+        "post-rock"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "1tgbxNQlN0ELxU55jDFzFp",
+      "name": "Falling from Grace",
+      "artists": [
+        "The Gentle Waves"
+      ],
+      "album": "Swansong for You",
+      "album_id": "1b8o1odmmZrdDKOo0yyDwZ",
+      "release_date": "2000-11-06",
+      "duration_ms": 225906,
+      "popularity": 52,
+      "artist_genres_main": [],
+      "order_index": 4
+    },
+    {
+      "id": "6L5BZEcZmD6RBJnimzlyKr",
+      "name": "Nights In White Satin - Single Version / Mono",
+      "artists": [
+        "The Moody Blues"
+      ],
+      "album": "Days Of Future Passed (Deluxe Version)",
+      "album_id": "3JyYXOBRAuc3XFQxFxrEcM",
+      "release_date": "1967-11-10",
+      "duration_ms": 269106,
+      "popularity": 68,
+      "artist_genres_main": [
+        "progressive rock",
+        "art rock",
+        "blues",
+        "psychedelic rock",
+        "baroque pop"
+      ],
+      "order_index": 5
+    },
+    {
+      "id": "0U2VLsm3QTfqGn2GTuGNPh",
+      "name": "Parisienne Moonlight - Remastered",
+      "artists": [
+        "Anathema"
+      ],
+      "album": "Judgement (Remastered)",
+      "album_id": "4IZVVIN1eotOJhqDihuV3H",
+      "release_date": "1999",
+      "duration_ms": 130066,
+      "popularity": 38,
+      "artist_genres_main": [
+        "doom metal",
+        "gothic metal",
+        "progressive rock",
+        "progressive metal"
+      ],
+      "order_index": 6
+    },
+    {
+      "id": "3v21Hhl7SKPm4uypO4Z60D",
+      "name": "The Day After That",
+      "artists": [
+        "Matt Elliott"
+      ],
+      "album": "Farewell to All we Know",
+      "album_id": "4IwwF9YTkECiFJvbLRId4D",
+      "release_date": "2020-03-27",
+      "duration_ms": 252200,
+      "popularity": 36,
+      "artist_genres_main": [
+        "slowcore"
+      ],
+      "order_index": 7
+    },
+    {
+      "id": "2HEmAttobAQzfNJMqJqP2y",
+      "name": "Raindrops",
+      "artists": [
+        "Shamrain"
+      ],
+      "album": "Goodbye To All That",
+      "album_id": "1NT3iFk6WSzcmoDZhKzflK",
+      "release_date": "2007-01-01",
+      "duration_ms": 270293,
+      "popularity": 50,
+      "artist_genres_main": [
+        "gothic metal"
+      ],
+      "order_index": 8
+    },
+    {
+      "id": "6SwtMd3Dic1oGmj8Ck1sXl",
+      "name": "Imaginary You",
+      "artists": [
+        "No Clear Mind"
+      ],
+      "album": "Dream is Destiny",
+      "album_id": "5lUJQDYfZIdR0F6Mv6urEo",
+      "release_date": "2014-11-07",
+      "duration_ms": 249973,
+      "popularity": 37,
+      "artist_genres_main": [
+        "post-rock"
+      ],
+      "order_index": 9
+    },
+    {
+      "id": "7F02x6EKYIQV3VcTaTm7oN",
+      "name": "Hey You",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "album": "The Wall",
+      "album_id": "5Dbax7G8SWrP9xyzkOvy2F",
+      "release_date": "1979-11-30",
+      "duration_ms": 279640,
+      "popularity": 75,
+      "artist_genres_main": [
+        "progressive rock",
+        "psychedelic rock",
+        "classic rock",
+        "art rock",
+        "rock"
+      ],
+      "order_index": 10
+    },
+    {
+      "id": "2WdSzkRcoRKKGOkPOyWjDS",
+      "name": "Russian Roulette",
+      "artists": [
+        "Jack Savoretti"
+      ],
+      "album": "Between The Minds (Deluxe)",
+      "album_id": "1DEluaycigxmlu2JHps9By",
+      "release_date": "2007-01-01",
+      "duration_ms": 283400,
+      "popularity": 31,
+      "artist_genres_main": [],
+      "order_index": 11
+    },
+    {
+      "id": "0hXm9zuFNolVGg6UlhbVrT",
+      "name": "Angelica",
+      "artists": [
+        "Anathema"
+      ],
+      "album": "Hindsight",
+      "album_id": "7LJO7nyleUT187CBuQ05Ur",
+      "release_date": "2008-08-25",
+      "duration_ms": 300906,
+      "popularity": 41,
+      "artist_genres_main": [
+        "doom metal",
+        "gothic metal",
+        "progressive rock",
+        "progressive metal"
+      ],
+      "order_index": 12
+    },
+    {
+      "id": "5j1y1tC4uyBLdNVID6ISuh",
+      "name": "Gone",
+      "artists": [
+        "Matt Elliott"
+      ],
+      "album": "Failing Songs",
+      "album_id": "6sqpQICrdeNHHmPHyoVphT",
+      "release_date": "2006-10-23",
+      "duration_ms": 207680,
+      "popularity": 29,
+      "artist_genres_main": [
+        "slowcore"
+      ],
+      "order_index": 13
+    },
+    {
+      "id": "5nd9B2L9beHZwAUfXEX3OV",
+      "name": "Black November",
+      "artists": [
+        "Shamrain"
+      ],
+      "album": "Deeper Into The Night",
+      "album_id": "3ihXOpYjphuQdBFlgwELUd",
+      "release_date": "2012-01-01",
+      "duration_ms": 212306,
+      "popularity": 41,
+      "artist_genres_main": [
+        "gothic metal"
+      ],
+      "order_index": 14
+    },
+    {
+      "id": "7szBlpOnqBsLieFOlMIYrY",
+      "name": "When You're Not Here",
+      "artists": [
+        "No Clear Mind"
+      ],
+      "album": "Mets",
+      "album_id": "7uFRTTYH2wr7M77ofz8Web",
+      "release_date": "2015-11-10",
+      "duration_ms": 358682,
+      "popularity": 43,
+      "artist_genres_main": [
+        "post-rock"
+      ],
+      "order_index": 15
+    },
+    {
+      "id": "78icjHzAoxYGrItgddnc7J",
+      "name": "Inner Voices",
+      "artists": [
+        "Thurisaz"
+      ],
+      "album": "The Cimmerian Years",
+      "album_id": "2J4Av0yD5RwOIUp9EgCudt",
+      "release_date": "2011-05-01",
+      "duration_ms": 174880,
+      "popularity": 36,
+      "artist_genres_main": [
+        "doom metal"
+      ],
+      "order_index": 16
+    },
+    {
+      "id": "60ifqqPhbselSwXyGrGyMK",
+      "name": "Soldier Of Fortune - 2009 Digital Remaster",
+      "artists": [
+        "Deep Purple"
+      ],
+      "album": "Stormbringer (Remastered)",
+      "album_id": "3k4Sw1t7tzEaE0LAR1J4YU",
+      "release_date": "1974-11",
+      "duration_ms": 204880,
+      "popularity": 63,
+      "artist_genres_main": [
+        "hard rock",
+        "classic rock",
+        "rock"
+      ],
+      "order_index": 17
+    },
+    {
+      "id": "0jQxDAN0CBuIdAqbR4OnzV",
+      "name": "One Last Goodbye - Remastered",
+      "artists": [
+        "Anathema"
+      ],
+      "album": "Judgement (Remastered)",
+      "album_id": "4IZVVIN1eotOJhqDihuV3H",
+      "release_date": "1999",
+      "duration_ms": 323933,
+      "popularity": 48,
+      "artist_genres_main": [
+        "doom metal",
+        "gothic metal",
+        "progressive rock",
+        "progressive metal"
+      ],
+      "order_index": 18
+    },
+    {
+      "id": "59ufuYa4OC56layWEJmwMk",
+      "name": "The Pain That's Yet to Come",
+      "artists": [
+        "Matt Elliott"
+      ],
+      "album": "The Broken Man",
+      "album_id": "3eitQrqDmZkLhOJUDtRntb",
+      "release_date": "2012-01-16",
+      "duration_ms": 221000,
+      "popularity": 35,
+      "artist_genres_main": [
+        "slowcore"
+      ],
+      "order_index": 19
+    },
+    {
+      "id": "0gaMmmhGi5buPXpquSAfxg",
+      "name": "The Temple Of The King",
+      "artists": [
+        "Rainbow"
+      ],
+      "album": "Ritchie Blackmore's Rainbow",
+      "album_id": "3LXOrVXLXwRiOguE446OZo",
+      "release_date": "1975-01-01",
+      "duration_ms": 282013,
+      "popularity": 61,
+      "artist_genres_main": [
+        "hard rock",
+        "aor",
+        "metal",
+        "heavy metal"
+      ],
+      "order_index": 20
+    },
+    {
+      "id": "6qvfeDEiwboR8RpUCxTt54",
+      "name": "Dream is Destiny",
+      "artists": [
+        "No Clear Mind"
+      ],
+      "album": "Dream is Destiny",
+      "album_id": "5lUJQDYfZIdR0F6Mv6urEo",
+      "release_date": "2014-11-07",
+      "duration_ms": 339200,
+      "popularity": 46,
+      "artist_genres_main": [
+        "post-rock"
+      ],
+      "order_index": 21
+    },
+    {
+      "id": "5egqT30FDjvOd8xMNiFGRs",
+      "name": "Last Night I Dreamt That Somebody Loved Me",
+      "artists": [
+        "Low"
+      ],
+      "album": "A Lifetime of Temporary Relief: 10 Years of B-Sides & Rarities",
+      "album_id": "4eHAA3c3mqW87VlsExqBo5",
+      "release_date": "2016-02-05",
+      "duration_ms": 238973,
+      "popularity": 38,
+      "artist_genres_main": [
+        "slowcore",
+        "dream pop",
+        "post-rock"
+      ],
+      "order_index": 22
+    },
+    {
+      "id": "1Yz4f8rXtp24nC5ODB2hbf",
+      "name": "Sympathy",
+      "artists": [
+        "Rare Bird"
+      ],
+      "album": "Sympathy",
+      "album_id": "6gXyAWsKtfcNHpaPlo1d70",
+      "release_date": "1970-01-01",
+      "duration_ms": 167573,
+      "popularity": 43,
+      "artist_genres_main": [
+        "progressive rock",
+        "art rock"
+      ],
+      "order_index": 23
+    },
+    {
+      "id": "1x7Obe7eEE68rfFzHzMjcm",
+      "name": "Desert",
+      "artists": [
+        "Siddhartha"
+      ],
+      "album": "Siddhartha",
+      "album_id": "4Zw3IeA2JbJsivMDdDw1oj",
+      "release_date": "1998-09-04",
+      "duration_ms": 214666,
+      "popularity": 26,
+      "artist_genres_main": [
+        "space rock",
+        "progressive rock"
+      ],
+      "order_index": 24
+    }
+  ]
+}

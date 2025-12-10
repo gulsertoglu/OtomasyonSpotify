@@ -1,0 +1,828 @@
+{
+  "created_at": "2025-12-03T20:59:14.356582Z",
+  "num_steps": 50,
+  "listen_seconds": 5,
+  "tracks": [
+    {
+      "id": "4hPdBIvTj8QbvsJGOvgZyc",
+      "name": "B!",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "BLEND",
+      "album_id": "6P9u2ip7gJ0UBhW6w9ivWt",
+      "release_date": "2023-12-01",
+      "duration_ms": 180645,
+      "popularity": 47,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 0
+    },
+    {
+      "id": "0y5KhxcOnvDeiUTLr8QJtE",
+      "name": "GÜZEL BİR GÜN GÖRMEZSEM",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 209999,
+      "popularity": 47,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 1
+    },
+    {
+      "id": "15MDK0KVjxIjKKzXw9wm0J",
+      "name": "İyi Ki Yoksun",
+      "artists": [
+        "Da Poet",
+        "Baneva"
+      ],
+      "album": "Kendini Bul",
+      "album_id": "21feVHHl2GYXcVQkcPCBer",
+      "release_date": "2021-05-07",
+      "duration_ms": 199811,
+      "popularity": 26,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "081OR1F4CeH7zQW5az2wyd",
+      "name": "Batı Yakası",
+      "artists": [
+        "Anıl Piyancı",
+        "Artz"
+      ],
+      "album": "Batı Yakası",
+      "album_id": "3ehINqY3qh1uc9QctOT7VE",
+      "release_date": "2016-01-15",
+      "duration_ms": 115575,
+      "popularity": 29,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "2rY7QeM6gVpzADFSuDZLuY",
+      "name": "Introvert",
+      "artists": [
+        "Ceg"
+      ],
+      "album": "Bipolar",
+      "album_id": "0ab5RvaLZtVjorEZZ10Oor",
+      "release_date": "2025-06-27",
+      "duration_ms": 135936,
+      "popularity": 50,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 4
+    },
+    {
+      "id": "2OON5KNsZ1z8pOPavnZjkv",
+      "name": "Uçurum",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "MANIFESTOR",
+      "album_id": "6AuuC7lBxC6C0EvsAkuoVt",
+      "release_date": "2021-04-30",
+      "duration_ms": 124015,
+      "popularity": 37,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 5
+    },
+    {
+      "id": "1tLOgRSGLmoQL6yuPonXq9",
+      "name": "Derman",
+      "artists": [
+        "Alba",
+        "Baneva"
+      ],
+      "album": "Bipolar",
+      "album_id": "40WX1QKrdYNB5kjL7kYwcO",
+      "release_date": "2024-05-03",
+      "duration_ms": 165807,
+      "popularity": 21,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 6
+    },
+    {
+      "id": "6HVOHcz3skeErCQg4jlYjP",
+      "name": "FARKETMİYO",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 156428,
+      "popularity": 40,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 7
+    },
+    {
+      "id": "5aAZs2FzpYhPY1hrUqFPcM",
+      "name": "Yıldızlara",
+      "artists": [
+        "Da Poet"
+      ],
+      "album": "Yıldızlara",
+      "album_id": "53VRvFME9QOOUzDbpwTW9I",
+      "release_date": "2025-04-25",
+      "duration_ms": 188017,
+      "popularity": 33,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 8
+    },
+    {
+      "id": "2LwPlrRAzId1iidWoRiHrj",
+      "name": "Hızlı Tren",
+      "artists": [
+        "PARK",
+        "Baneva"
+      ],
+      "album": "Hızlı Tren",
+      "album_id": "5TFdEOAjHcY3oAOrAcFtxr",
+      "release_date": "2023-05-19",
+      "duration_ms": 150840,
+      "popularity": 28,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 9
+    },
+    {
+      "id": "6IIXirTrL8ueg7a0jTAc9t",
+      "name": "EĞLEN",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "BLEND",
+      "album_id": "6P9u2ip7gJ0UBhW6w9ivWt",
+      "release_date": "2023-12-01",
+      "duration_ms": 175294,
+      "popularity": 53,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 10
+    },
+    {
+      "id": "72OfGopVkB2ujxsGXQ204q",
+      "name": "Eve Geçelim",
+      "artists": [
+        "Şam",
+        "D3",
+        "2run"
+      ],
+      "album": "P.O.P Mixtape, Pt. 3",
+      "album_id": "5G9GgsCApytDWn9JgqC3IJ",
+      "release_date": "2022-12-22",
+      "duration_ms": 165288,
+      "popularity": 50,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 11
+    },
+    {
+      "id": "4wPEWZwLu2QCHUcA2RFPC1",
+      "name": "Figaro",
+      "artists": [
+        "Oldeaf",
+        "Çiğ"
+      ],
+      "album": "Figaro",
+      "album_id": "6khhi2nxu1ntOk5812kJqL",
+      "release_date": "2023-02-05",
+      "duration_ms": 227532,
+      "popularity": 31,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 12
+    },
+    {
+      "id": "1TxnBQgPHNlarBgJ8w5v2D",
+      "name": "FARZETKİ",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 139810,
+      "popularity": 41,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 13
+    },
+    {
+      "id": "4TRu2Cfbu3InX0ailimO4s",
+      "name": "OHD",
+      "artists": [
+        "Hidra"
+      ],
+      "album": "SİMÜLASYON",
+      "album_id": "7J4wkdCK6o8X5QKyapKpde",
+      "release_date": "2024-04-19",
+      "duration_ms": 175655,
+      "popularity": 28,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 14
+    },
+    {
+      "id": "4p0ofdV64FweVncu4lqYd1",
+      "name": "Son Sefer",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "MANIFESTOR",
+      "album_id": "6AuuC7lBxC6C0EvsAkuoVt",
+      "release_date": "2021-04-30",
+      "duration_ms": 149724,
+      "popularity": 29,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 15
+    },
+    {
+      "id": "1FvYoB3T19Ce1ruRFMFrEl",
+      "name": "Hissizleşmiş",
+      "artists": [
+        "Kamufle",
+        "Lara Di Lara"
+      ],
+      "album": "Denge",
+      "album_id": "2jYOcwAsXcKeXNIY9J6eqs",
+      "release_date": "2021-05-21",
+      "duration_ms": 227719,
+      "popularity": 41,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 16
+    },
+    {
+      "id": "6gXGK0ZDUGl0FaAowiWpSD",
+      "name": "Paranoya",
+      "artists": [
+        "Şam",
+        "Ohash"
+      ],
+      "album": "P.O.P Mixtape, pt. 1",
+      "album_id": "12s3bLOAatVMX514GbC5PY",
+      "release_date": "2018-08-10",
+      "duration_ms": 202285,
+      "popularity": 48,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 17
+    },
+    {
+      "id": "5dUwPhmXY1rCIsyrW4baOi",
+      "name": "TRY HARD",
+      "artists": [
+        "Aspova",
+        "Ceg"
+      ],
+      "album": "FAM",
+      "album_id": "59wTR74ppNXF7o2nRvibvC",
+      "release_date": "2025-11-28",
+      "duration_ms": 201380,
+      "popularity": 43,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 18
+    },
+    {
+      "id": "72grH7gGw7Phzwq89Dxi5j",
+      "name": "SEVDİĞİN ŞARKI",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 188842,
+      "popularity": 40,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 19
+    },
+    {
+      "id": "781J24qZiT7nUIOkp4mq2F",
+      "name": "ALATURKA",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "ALATURKA",
+      "album_id": "04DHN2ErPEg8uq51j8owxS",
+      "release_date": "2024-05-17",
+      "duration_ms": 209280,
+      "popularity": 45,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 20
+    },
+    {
+      "id": "3523dRbLGt1cTu9r4MPbJR",
+      "name": "RAP BU BEYLER",
+      "artists": [
+        "Hidra"
+      ],
+      "album": "SİMÜLASYON",
+      "album_id": "7J4wkdCK6o8X5QKyapKpde",
+      "release_date": "2024-04-19",
+      "duration_ms": 128733,
+      "popularity": 34,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 21
+    },
+    {
+      "id": "180C23DmoV500pgOcDfYlG",
+      "name": "Pirus Zaferi",
+      "artists": [
+        "Ceg"
+      ],
+      "album": "Bipolar",
+      "album_id": "0ab5RvaLZtVjorEZZ10Oor",
+      "release_date": "2025-06-27",
+      "duration_ms": 174080,
+      "popularity": 50,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 22
+    },
+    {
+      "id": "7LbTExwonJXtv2LbyXjho3",
+      "name": "Yağsın Dünya Üstüme",
+      "artists": [
+        "Wegh"
+      ],
+      "album": "Yağsın Dünya Üstüme",
+      "album_id": "73yapmvm4yQnAvGac4OlWw",
+      "release_date": "2023-11-24",
+      "duration_ms": 137142,
+      "popularity": 55,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 23
+    },
+    {
+      "id": "3w3XLuEHgnwwx5l0q9UUvV",
+      "name": "EKSİLERİ + 'YA ÇEVİR",
+      "artists": [
+        "Jefe"
+      ],
+      "album": "MİLENYUM+",
+      "album_id": "0r6ROuI3w414QKFxN5U1cu",
+      "release_date": "2025-11-07",
+      "duration_ms": 177777,
+      "popularity": 56,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 24
+    },
+    {
+      "id": "5FYPksjzGVXi1lA252pQCX",
+      "name": "Sahte",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "MANIFESTOR",
+      "album_id": "6AuuC7lBxC6C0EvsAkuoVt",
+      "release_date": "2021-04-30",
+      "duration_ms": 210357,
+      "popularity": 26,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 25
+    },
+    {
+      "id": "71LL80HQQYUcCUjNqrmMRN",
+      "name": "AVARE",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 118518,
+      "popularity": 44,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 26
+    },
+    {
+      "id": "74JzMXPXsboKaAtnIKfJ1X",
+      "name": "İstemem İtiraz",
+      "artists": [
+        "Anıl Piyancı"
+      ],
+      "album": "Paradigma",
+      "album_id": "5JEDimXEOMyW9q6NJwzpAq",
+      "release_date": "2025-08-15",
+      "duration_ms": 140451,
+      "popularity": 24,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 27
+    },
+    {
+      "id": "0UtUHKKOiXIuK7pRJqy0f6",
+      "name": "KEÇY",
+      "artists": [
+        "Bar B"
+      ],
+      "album": "KEÇY",
+      "album_id": "6xxNNC6Z2g4mEHOblB79KK",
+      "release_date": "2025-11-21",
+      "duration_ms": 170858,
+      "popularity": 51,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 28
+    },
+    {
+      "id": "4YGlGQSVxybaSPd8ylCCMM",
+      "name": "Dumanını Tut Ciğerinde",
+      "artists": [
+        "Kamufle"
+      ],
+      "album": "Tamamlanmaya Çalışıyorum",
+      "album_id": "1AbcLeL75kLu3nYv7iI7UY",
+      "release_date": "2025-07-25",
+      "duration_ms": 161334,
+      "popularity": 33,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 29
+    },
+    {
+      "id": "3niosn7zu9QnarPgrloFtS",
+      "name": "YHD",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "BLEND",
+      "album_id": "6P9u2ip7gJ0UBhW6w9ivWt",
+      "release_date": "2023-12-01",
+      "duration_ms": 157894,
+      "popularity": 42,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 30
+    },
+    {
+      "id": "5UqBTbXIxDVawCa4zBUPtN",
+      "name": "HER NEYSE",
+      "artists": [
+        "Jefe"
+      ],
+      "album": "MİLENYUM+",
+      "album_id": "0r6ROuI3w414QKFxN5U1cu",
+      "release_date": "2025-11-07",
+      "duration_ms": 192167,
+      "popularity": 58,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 31
+    },
+    {
+      "id": "395tVRmE2la33aWOcjolvz",
+      "name": "YOLUN SONU",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 144000,
+      "popularity": 40,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 32
+    },
+    {
+      "id": "3dKnMBsduFlbmSZlKJVJkC",
+      "name": "Kennedy Yokuşu",
+      "artists": [
+        "Mode XL"
+      ],
+      "album": "Kennedy Yokuşu",
+      "album_id": "2KVyepgIgEZ1lyL7DO4eKm",
+      "release_date": "2022-05-20",
+      "duration_ms": 189676,
+      "popularity": 40,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 33
+    },
+    {
+      "id": "2bB1wffMW7q22y7ByfruDg",
+      "name": "dava açacakları için değiştirdim",
+      "artists": [
+        "EGE!"
+      ],
+      "album": "dava açacakları için değiştirdim",
+      "album_id": "2iC3G1IIlU86pTO4Bu7PCi",
+      "release_date": "2024-09-13",
+      "duration_ms": 164651,
+      "popularity": 53,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 34
+    },
+    {
+      "id": "2XSj2Yaqss8btjLpMruXnj",
+      "name": "Her Baktığımda",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "MANIFESTOR",
+      "album_id": "6AuuC7lBxC6C0EvsAkuoVt",
+      "release_date": "2021-04-30",
+      "duration_ms": 175852,
+      "popularity": 31,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 35
+    },
+    {
+      "id": "4WKgysBwqdtoEtbzQUF35o",
+      "name": "Hipomani",
+      "artists": [
+        "Ceg"
+      ],
+      "album": "Bipolar",
+      "album_id": "0ab5RvaLZtVjorEZZ10Oor",
+      "release_date": "2025-06-27",
+      "duration_ms": 157301,
+      "popularity": 46,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 36
+    },
+    {
+      "id": "6fkJTlBXpyTDq0Fd9BQhyF",
+      "name": "Fiyasko",
+      "artists": [
+        "Çiğ"
+      ],
+      "album": "Fiyasko",
+      "album_id": "5LDy3wriLxlfX10k88y2bg",
+      "release_date": "2023-06-08",
+      "duration_ms": 183529,
+      "popularity": 29,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 37
+    },
+    {
+      "id": "5DNqQoRgBXYVirEZhY9x8w",
+      "name": "SOR BANA INTRO",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 111377,
+      "popularity": 37,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 38
+    },
+    {
+      "id": "4fG2XUWounVRLfTSILXi7G",
+      "name": "Bir Yolunu Bul",
+      "artists": [
+        "Motive"
+      ],
+      "album": "Output Nr.1",
+      "album_id": "6RMNJKvUtdQ9TO2LKqSP0J",
+      "release_date": "2019-02-01",
+      "duration_ms": 216167,
+      "popularity": 46,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 39
+    },
+    {
+      "id": "67FJONzR4S8nS535Op1HK5",
+      "name": "YSIVII",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "YSIVII",
+      "album_id": "7c9vw13t8XozdjvLfOjeJF",
+      "release_date": "2024-12-13",
+      "duration_ms": 183870,
+      "popularity": 45,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 40
+    },
+    {
+      "id": "28m4oRVBpbjvtFXWNHA4Ij",
+      "name": "Bi Lanet Var Üstümde",
+      "artists": [
+        "Kamufle"
+      ],
+      "album": "Tamamlanmaya Çalışıyorum",
+      "album_id": "1AbcLeL75kLu3nYv7iI7UY",
+      "release_date": "2025-07-25",
+      "duration_ms": 191030,
+      "popularity": 32,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 41
+    },
+    {
+      "id": "7lqIOk9jQnMb8vYsqGrmt7",
+      "name": "Mani",
+      "artists": [
+        "Ceg"
+      ],
+      "album": "Bipolar",
+      "album_id": "0ab5RvaLZtVjorEZZ10Oor",
+      "release_date": "2025-06-27",
+      "duration_ms": 166943,
+      "popularity": 48,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 42
+    },
+    {
+      "id": "6Xr2GIgblQlt0DDMN8uuj5",
+      "name": "Nostaljik",
+      "artists": [
+        "FerzanBeats",
+        "Baneva"
+      ],
+      "album": "Nostaljik",
+      "album_id": "2yXPqCIYLArtLrOxRMOgkl",
+      "release_date": "2023-09-08",
+      "duration_ms": 125837,
+      "popularity": 24,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 43
+    },
+    {
+      "id": "3YTz8PBGZOE47d2xiKboML",
+      "name": "BİR MAHALLE DALGASI 2",
+      "artists": [
+        "Orchi",
+        "akca"
+      ],
+      "album": "EZGİN",
+      "album_id": "52srm5CFuCwaTgsBbyoIgv",
+      "release_date": "2025-05-30",
+      "duration_ms": 152249,
+      "popularity": 37,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 44
+    },
+    {
+      "id": "3bmhtJxZtwfYdR69EylskU",
+      "name": "Tok",
+      "artists": [
+        "Baneva"
+      ],
+      "album": "MANIFESTOR",
+      "album_id": "6AuuC7lBxC6C0EvsAkuoVt",
+      "release_date": "2021-04-30",
+      "duration_ms": 173698,
+      "popularity": 30,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 45
+    },
+    {
+      "id": "1DwkmDumQw37qS82w8k5x0",
+      "name": "CHAMP",
+      "artists": [
+        "Jefe"
+      ],
+      "album": "MİLENYUM",
+      "album_id": "2FRNJvYfqunNIQMfF4HUbU",
+      "release_date": "2024-05-17",
+      "duration_ms": 167906,
+      "popularity": 42,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 46
+    },
+    {
+      "id": "3hQDZemLsAkHQYcyjNM7Db",
+      "name": "yanlış ama ben",
+      "artists": [
+        "İmpala",
+        "Stabil"
+      ],
+      "album": "yanlış ama ben",
+      "album_id": "0W6ZUAJQhg4zd8DT8fvVf0",
+      "release_date": "2025-02-21",
+      "duration_ms": 170986,
+      "popularity": 42,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 47
+    },
+    {
+      "id": "49GJXcbCXTs4GiKVFcIdPK",
+      "name": "Halit Abi",
+      "artists": [
+        "Wegh",
+        "bodega grande"
+      ],
+      "album": "Halit Abi",
+      "album_id": "0VP8tsOjh1iYhOgTiTguYV",
+      "release_date": "2023-05-05",
+      "duration_ms": 128394,
+      "popularity": 53,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 48
+    },
+    {
+      "id": "3kazWBtPSWYCkSncDwqFhd",
+      "name": "Mükemmeliyetçi",
+      "artists": [
+        "Ceg"
+      ],
+      "album": "Bipolar",
+      "album_id": "0ab5RvaLZtVjorEZZ10Oor",
+      "release_date": "2025-06-27",
+      "duration_ms": 207000,
+      "popularity": 50,
+      "artist_genres_main": [
+        "turkish hip hop"
+      ],
+      "order_index": 49
+    }
+  ]
+}

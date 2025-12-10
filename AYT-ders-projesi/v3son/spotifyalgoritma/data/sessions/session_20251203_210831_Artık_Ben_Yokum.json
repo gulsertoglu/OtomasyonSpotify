@@ -1,0 +1,324 @@
+{
+  "created_at": "2025-12-03T21:08:31.331476Z",
+  "num_steps": 20,
+  "listen_seconds": 2,
+  "tracks": [
+    {
+      "id": "6odBdq4o8JzgMsMff8Cxdu",
+      "name": "Artık Ben Yokum",
+      "artists": [
+        "You May Kiss The Bride"
+      ],
+      "album": "Artık Ben Yokum",
+      "album_id": "3sHRD3B7JB9karch4bBFJi",
+      "release_date": "2016-11-14",
+      "duration_ms": 263200,
+      "popularity": 29,
+      "artist_genres_main": [],
+      "order_index": 0
+    },
+    {
+      "id": "5tFq5T2mEw7kRSH8Rve8EC",
+      "name": "Bizler Özgürüz",
+      "artists": [
+        "Murder King"
+      ],
+      "album": "Fiyasko",
+      "album_id": "0HAE4VN7QntOdCU34KAcIR",
+      "release_date": "2019-03-15",
+      "duration_ms": 231296,
+      "popularity": 27,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 1
+    },
+    {
+      "id": "3wQson3QMYM95QoVdXw4mc",
+      "name": "Sana Ihtiyacim Var",
+      "artists": [
+        "Diken"
+      ],
+      "album": "Hedef Büyük",
+      "album_id": "7K90d8pxDJdm8WB6MNN5Ep",
+      "release_date": "1998-05-04",
+      "duration_ms": 253626,
+      "popularity": 19,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 2
+    },
+    {
+      "id": "536vsygVAsWb5Vu47mmQXJ",
+      "name": "Kumdan Kaleler",
+      "artists": [
+        "Cin Seddi"
+      ],
+      "album": "Her Şeye Evet Diyemem",
+      "album_id": "6nZaqurPbTYDRXm4HPFbLy",
+      "release_date": "2009-02-24",
+      "duration_ms": 253816,
+      "popularity": 40,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 3
+    },
+    {
+      "id": "6aO1URuBDmS6ESEPh8vJmP",
+      "name": "Tek Başına",
+      "artists": [
+        "Kramp"
+      ],
+      "album": "İstanbul Sokakları",
+      "album_id": "7rjHlfhRshYmixYqj7RrwH",
+      "release_date": "1998-09-04",
+      "duration_ms": 277093,
+      "popularity": 30,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 4
+    },
+    {
+      "id": "05SHTm55has6FW6abdkuIK",
+      "name": "Karanlığı Beklerken",
+      "artists": [
+        "Pickpocket"
+      ],
+      "album": "Hayalle Gerçek Arasında",
+      "album_id": "1w7BG5lCak60c3OfN5WOf5",
+      "release_date": "2008-04-15",
+      "duration_ms": 254630,
+      "popularity": 25,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 5
+    },
+    {
+      "id": "7A5PIZGB8zC2M7ynvRgCRw",
+      "name": "Bensiz Bir Sen",
+      "artists": [
+        "You May Kiss The Bride",
+        "Fatma Turgut"
+      ],
+      "album": "Bensiz Bir Sen",
+      "album_id": "2lnNlfHmLXANtMJIIM1n6n",
+      "release_date": "2016-02-21",
+      "duration_ms": 183742,
+      "popularity": 32,
+      "artist_genres_main": [],
+      "order_index": 6
+    },
+    {
+      "id": "7bHAGw4oc1Zy36FqhctmMc",
+      "name": "Demokrasi",
+      "artists": [
+        "Murder King"
+      ],
+      "album": "Gürültü Kirliliği",
+      "album_id": "1HpqDlOUucEx61If28L1wg",
+      "release_date": "2014-03-04",
+      "duration_ms": 236106,
+      "popularity": 35,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 7
+    },
+    {
+      "id": "5QGcl3BFaOPlDKp9xhU9id",
+      "name": "Vasiyet",
+      "artists": [
+        "Öztürk"
+      ],
+      "album": "Vasiyet",
+      "album_id": "6Gk0YZ3XNNEKOJX1viuUsr",
+      "release_date": "2003-05-09",
+      "duration_ms": 315280,
+      "popularity": 27,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 8
+    },
+    {
+      "id": "0swicd4mudWGOOURjG07oO",
+      "name": "Yağmur Güncesi",
+      "artists": [
+        "Sakin"
+      ],
+      "album": "Hayat",
+      "album_id": "2UU0byg7ixOnleTAnbpOgs",
+      "release_date": "2008-02-29",
+      "duration_ms": 222493,
+      "popularity": 47,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 9
+    },
+    {
+      "id": "37h4NSTymRWZxksS0HkBVv",
+      "name": "Nefretim Kederimden",
+      "artists": [
+        "BUZ"
+      ],
+      "album": "Senin Eserin",
+      "album_id": "1vsN8jE0yZh60dw3iGe1Vw",
+      "release_date": "2006-01-01",
+      "duration_ms": 252261,
+      "popularity": 29,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 10
+    },
+    {
+      "id": "6TiWbS5JwAzOPw6pqu7egV",
+      "name": "Kıyamet Senfonisi",
+      "artists": [
+        "Almora"
+      ],
+      "album": "Kıyamet Senfonisi",
+      "album_id": "2Um4g0MjRSixjm8aiGjiRe",
+      "release_date": "2008-02-21",
+      "duration_ms": 320800,
+      "popularity": 37,
+      "artist_genres_main": [
+        "symphonic metal",
+        "anatolian rock",
+        "folk metal"
+      ],
+      "order_index": 11
+    },
+    {
+      "id": "7b92niDMznWG1pBdMwtNQt",
+      "name": "Zehirli Dudaklar",
+      "artists": [
+        "You May Kiss The Bride"
+      ],
+      "album": "Zehirli Dudaklar",
+      "album_id": "2RSLOodGb2cnT8bSXksfKq",
+      "release_date": "2022-01-14",
+      "duration_ms": 230136,
+      "popularity": 27,
+      "artist_genres_main": [],
+      "order_index": 12
+    },
+    {
+      "id": "3vgKia7JQHm9qDOvuhDtxu",
+      "name": "İnsanlar",
+      "artists": [
+        "Murder King"
+      ],
+      "album": "Fiyasko",
+      "album_id": "0HAE4VN7QntOdCU34KAcIR",
+      "release_date": "2019-03-15",
+      "duration_ms": 241410,
+      "popularity": 31,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 13
+    },
+    {
+      "id": "6cPAza99E6098jJnouPMOE",
+      "name": "Gitme",
+      "artists": [
+        "Kramp"
+      ],
+      "album": "Lan N'oldu",
+      "album_id": "7zQzQVhbmKcpLlibhQakrH",
+      "release_date": "1996-06-04",
+      "duration_ms": 247040,
+      "popularity": 23,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 14
+    },
+    {
+      "id": "6pK47XD53Xvof9YlS9w5hi",
+      "name": "Aldırma",
+      "artists": [
+        "Öztürk"
+      ],
+      "album": "Öztürk",
+      "album_id": "1bDqgAfi8K3rCukaABw5HR",
+      "release_date": "2007-11-27",
+      "duration_ms": 219426,
+      "popularity": 20,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 15
+    },
+    {
+      "id": "5nwABLxdS2ADhoXiLE1mmH",
+      "name": "Beni Bir Melek Öldürdü",
+      "artists": [
+        "Karapaks"
+      ],
+      "album": "Akustik 1992 - 2009",
+      "album_id": "23cwttxNWdo7HnpDVrqDl2",
+      "release_date": "2010-01-01",
+      "duration_ms": 253469,
+      "popularity": 29,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 16
+    },
+    {
+      "id": "6eVokry4xKvx4LT8qUxuzL",
+      "name": "Sevmeyen Sevmesin",
+      "artists": [
+        "Acil Servis"
+      ],
+      "album": "Dur Bekle",
+      "album_id": "2c8BwV6bQvw1M62xSXKPGh",
+      "release_date": "2010-03-01",
+      "duration_ms": 297360,
+      "popularity": 35,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 17
+    },
+    {
+      "id": "7LcTLgWeqgH7MnVHLMOye5",
+      "name": "Asla Vazgeçmem",
+      "artists": [
+        "Diken"
+      ],
+      "album": "Hedef Büyük",
+      "album_id": "7K90d8pxDJdm8WB6MNN5Ep",
+      "release_date": "1998-05-04",
+      "duration_ms": 284973,
+      "popularity": 18,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 18
+    },
+    {
+      "id": "3cAE5X8Jr0VMHVIomWmzLj",
+      "name": "Susma",
+      "artists": [
+        "Murder King"
+      ],
+      "album": "Gürültü Kirliliği",
+      "album_id": "1HpqDlOUucEx61If28L1wg",
+      "release_date": "2014-03-04",
+      "duration_ms": 244733,
+      "popularity": 29,
+      "artist_genres_main": [
+        "anatolian rock"
+      ],
+      "order_index": 19
+    }
+  ]
+}

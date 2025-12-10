@@ -4,10 +4,30 @@ import re
 from pathlib import Path
 from datetime import datetime
 
-from google.genai import Client
-from dotenv import load_dotenv
+import requests  # Ollama'ya HTTP istek atmak için
 
-load_dotenv()
+
+OLLAMA_URL = "http://localhost:11434/api/generate"
+MODEL_NAME = "mistral"  # 'llama3' kullanmak istersen burayı değiştir
+
+
+def ask_local_ai(prompt: str) -> str:
+    """
+    Ollama üzerinde çalışan yerel LLM'e (mistral) istek atar.
+    Gerçek AI analizi burada üretiliyor.
+    """
+    resp = requests.post(
+        OLLAMA_URL,
+        json={
+            "model": MODEL_NAME,
+            "prompt": prompt,
+            "stream": False,
+        },
+        timeout=300,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    return data["response"]
 
 
 def analyze_session_json(json_path: str, out_dir: str = "data/analysis") -> str:
@@ -21,7 +41,7 @@ def analyze_session_json(json_path: str, out_dir: str = "data/analysis") -> str:
 
     seed = tracks[0]
 
-    # Gemini için prompt (TÜRKÇE)
+    # LLM için prompt (TÜRKÇE)
     prompt = f"""
 Sen bir müzik öneri sistemi analisti olarak çalışıyorsun.
 
@@ -65,18 +85,8 @@ GÖREVİN:
    "GENEL PUAN: X/100"
 """
 
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise RuntimeError("GEMINI_API_KEY .env dosyasında tanımlı değil.")
-
-    client = Client(api_key=api_key)
-
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=prompt
-    )
-
-    analysis_text = response.text
+    # Yerel AI'dan analiz al
+    analysis_text = ask_local_ai(prompt)
 
     # GENEL PUAN satırından sayıyı çek
     match = re.search(r"GENEL PUAN:\s*(\d+)\s*/\s*100", analysis_text)
@@ -94,7 +104,7 @@ GÖREVİN:
     analysis_payload = {
         "session_file": json_path,
         "created_at": datetime.now().isoformat(),
-        "model": "gemini-2.0-flash",
+        "model": f"ollama:{MODEL_NAME}",
         "score": score,
         "analysis_text": analysis_text,
     }
@@ -112,6 +122,6 @@ GÖREVİN:
 if __name__ == "__main__":
     path = input("Analiz edilecek oturum JSON yolu: ").strip()
     out_file = analyze_session_json(path)
-    print("\n--- GEMINI ANALİZİ KAYDEDİLDİ ---")
+    print("\n--- YEREL LLM ANALİZİ KAYDEDİLDİ ---")
     print(out_file)
     print("(Aynı isimle bir de .md dosyası oluşturuldu)")
