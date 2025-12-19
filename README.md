@@ -1,4 +1,4 @@
-# OtomasyonSpotify
+# Otomasyon APİ
 Popüler bir müzik uygulamasının öneri algoritmalarının isabetliliğini ölçen program. 
 (Aktif olarak çalışan kod kısmı v3son dosyası içerisindedir.)
 
